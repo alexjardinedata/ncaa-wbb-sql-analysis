@@ -1,0 +1,896 @@
+﻿PLAYER_NAME,Team,Class,Height,Position,PLAYER_ID,TEAM_NAME,GAMES,MINUTES_PLAYED,FIELD_GOALS_MADE,FIELD_GOAL_ATTEMPTS,FIELD_GOAL_PERCENTAGE,THREE_POINTS_MADE,THREE_POINT_ATTEMPTS,THREE_POINT_PERCENTAGE,FREE_THROWS_MADE,FREE_THROW_ATTEMPTS,FREE_THROW_PERCENTAGE,OFFENSIVE_REBOUNDS,DEFENSIVE_REBOUNDS,TOTAL_REBOUNDS,ASSISTS,TURNOVERS,STEALS,BLOCKS,FOULS,POINTS
+Kiara Jackson, UNLV (Mountain West),Junior,67,Guard,ncaaw.p.67149,UNLV,29,895,128,291,44,28,69,40.6,39,52,75,27,102,129,135,42,31,5,47,323
+Raven Johnson, South Carolina (SEC),Sophomore,68,Guard,ncaaw.p.67515,South Carolina,30,823,98,216,45.4,20,59,33.9,27,42,64.3,33,128,161,148,53,60,5,34,243
+Gina Marxen, Montana (Big Sky),Senior,68,Guard,ncaaw.p.57909,Montana,29,778,88,231,38.1,58,152,38.2,63,87,72.4,6,54,60,111,38,16,2,26,297
+McKenna Hofschild, Colorado St. (Mountain West),Senior,62,Guard,ncaaw.p.60402,Colorado St.,29,1046,231,498,46.4,55,138,39.9,137,164,83.5,6,109,115,211,71,36,4,34,654
+Kaylah Ivey, Boston College (ACC),Junior,68,Guard,ncaaw.p.64531,Boston Coll.,33,995,47,170,27.6,32,115,27.8,17,28,60.7,12,45,57,186,64,36,1,48,143
+Bailey Butler, Green Bay (Horizon),Junior,67,Guard,ncaaw.p.67085,Green Bay,31,919,86,223,38.6,29,102,28.4,50,59,84.7,17,71,88,164,55,66,4,64,251
+Rose Nkumu, Marquette (Big East),Senior,69,Guard,ncaaw.p.64492,Marquette,30,971,73,149,49,21,54,38.9,48,60,80,4,61,65,145,51,50,7,61,215
+DeeDee Hagemann, Michigan St. (Big Ten),Junior,68,Guard,ncaaw.p.66913,Memphis,29,907,118,230,51.3,41,99,41.4,83,110,75.5,11,59,70,148,53,28,4,41,360
+Maya McDermott, UNI (MVC),Junior,66,Guard,ncaaw.p.64668,Northern Iowa,28,764,162,374,43.3,47,142,33.1,74,77,96.1,9,71,80,97,38,30,0,24,445
+Endyia Rogers, Texas A&M (SEC),Senior,67,Guard,ncaaw.p.60883,Texas A&M,25,689,114,291,39.2,47,138,34.1,38,44,86.4,14,86,100,98,34,32,7,38,313
+Chloe Moore-McNeil, Indiana (Big Ten),Senior,72,Guard,ncaaw.p.64446,Indiana,29,914,105,226,46.5,33,82,40.2,49,62,79,10,88,98,141,54,40,13,52,292
+Bella Runyan, Villanova (Big East),Senior,70,Guard,ncaaw.p.64735,Villanova,30,1005,78,215,36.3,30,100,30,19,24,79.2,29,110,139,108,38,49,21,63,205
+Nevaeh Tot, Oklahoma (Big 12),Senior,63,Guard,ncaaw.p.65061,Oklahoma,30,813,70,190,36.8,37,117,31.6,28,40,70,15,85,100,133,52,40,1,24,205
+Lauren Park-Lane, Mississippi St. (SEC),Senior,63,Guard,ncaaw.p.60404,Mississippi St.,32,1029,112,268,41.8,29,85,34.1,52,74,70.3,20,70,90,197,81,26,1,46,305
+Molly Davis, Iowa (Big Ten),Senior,67,Guard,ncaaw.p.60477,Iowa,30,728,69,128,53.9,22,54,40.7,24,28,85.7,17,62,79,93,37,21,2,39,184
+Paige Bueckers, UConn (Big East),Senior,72,Guard,ncaaw.p.64075,Connecticut,32,977,245,458,53.5,66,158,41.8,115,135,85.2,22,124,146,120,47,67,38,55,671
+Nika Muhl, UConn (Big East),Senior,70,Guard,ncaaw.p.64083,Connecticut,32,995,89,186,47.8,42,104,40.4,9,15,60,31,97,128,204,80,38,3,68,229
+Kaylynne Truong, Gonzaga (WCC),Senior,68,Guard,ncaaw.p.61046,Gonzaga,31,914,123,272,45.2,83,187,44.4,38,49,77.6,8,65,73,184,73,39,1,41,367
+Donovyn Hunter, Oregon St. (Pac-12),Freshman,72,Guard,ncaaw.p.112006,TCU,31,850,87,217,40.1,23,76,30.3,13,23,56.5,14,56,70,112,46,23,6,43,210
+Katie Dinnebier, Drake (MVC),Junior,68,Guard,ncaaw.p.67845,Drake,31,937,175,329,53.2,53,132,40.2,158,184,85.9,10,88,98,216,92,77,3,53,561
+Helena Pueyo, Arizona (Pac-12),Senior,72,Guard,ncaaw.p.61509,Arizona,32,1171,119,254,46.9,35,97,36.1,28,35,80,11,107,118,117,45,103,28,37,301
+Talana Lepolo, Stanford (Pac-12),Sophomore,67,Guard,ncaaw.p.71125,Stanford,30,915,51,129,39.5,32,81,39.5,20,32,62.5,9,54,63,121,52,13,1,55,154
+Kindyll Wetta, Colorado (Pac-12),Junior,69,Guard,ncaaw.p.66703,Colorado,31,719,67,140,47.9,9,32,28.1,30,44,68.2,35,68,103,122,51,53,5,75,173
+Sophia Wiard, Toledo (MAC),Senior,67,Guard,ncaaw.p.60573,Toledo,29,1046,139,306,45.4,59,128,46.1,96,110,87.3,12,115,127,137,58,44,5,46,433
+Aerial Wilson, South Fla. (AAC),Senior,70,Guard,ncaaw.p.60631,South Florida,31,941,23,79,29.1,9,44,20.5,11,13,84.6,11,65,76,143,62,16,8,68,66
+Shaulana Wagner, Troy (Sun Belt),Junior,70,Guard,ncaaw.p.102058,Troy,27,641,47,143,32.9,4,21,19,25,51,49,36,110,146,126,57,35,7,41,123
+Rachael Rose, Wofford (SoCon),Junior,67,Guard,ncaaw.p.67205,Wofford,30,1075,237,470,50.4,56,139,40.3,140,161,87,55,195,250,163,72,64,8,53,670
+Te-Hina Paopao, South Carolina (SEC),Senior,69,Guard,ncaaw.p.65049,South Carolina,30,822,119,256,46.5,71,148,48,23,27,85.2,7,74,81,111,47,24,6,17,332
+Astera Tuhina, Washington St. (Pac-12),Sophomore,69,Guard,ncaaw.p.71472,Washington St.,25,738,86,197,43.7,36,81,44.4,17,27,63,4,71,75,86,36,33,2,27,225
+Kayleigh Truong, Gonzaga (WCC),Senior,69,Guard,ncaaw.p.61044,Gonzaga,30,846,128,286,44.8,69,169,40.8,48,61,78.7,15,53,68,137,54,39,4,44,373
+Talia von Oelhoffen, Oregon St. (Pac-12),Junior,71,Guard,ncaaw.p.66490,USC,31,822,113,281,40.2,39,123,31.7,72,82,87.8,14,113,127,147,67,31,19,57,337
+Nyla Hampton, Ball St. (MAC),Junior,67,Guard,ncaaw.p.64558,Michigan St.,31,1042,110,224,49.1,16,64,25,35,48,72.9,40,72,112,152,65,104,15,45,271
+Destini Lombard, SFA (WAC),Senior,69,Guard,ncaaw.p.63861,Purdue,31,960,121,257,47.1,28,98,28.6,41,57,71.9,30,96,126,120,55,80,17,53,311
+Peyton Carter, Tennessee Tech (OVC),Senior,68,Guard,ncaaw.p.64820,Tennessee Tech,30,830,68,176,38.6,48,130,36.9,35,43,81.4,56,99,155,110,51,46,4,52,219
+Megan McConnell, Duquesne (Atlantic 10),Junior,67,Guard,ncaaw.p.64307,Duquesne,32,1230,139,300,46.3,53,128,41.4,88,131,67.2,50,224,274,150,67,62,8,50,419
+Niya Fields, Norfolk St. (MEAC),Junior,68,Guard,ncaaw.p.65211,Norfolk St.,29,924,70,175,40,33,85,38.8,20,27,74.1,12,63,75,116,57,74,7,66,193
+Filipa Barros, California Baptist (WAC),Sophomore,69,Guard,ncaaw.p.71004,California Baptist,23,749,105,267,39.3,37,121,30.6,48,60,80,43,128,171,103,49,53,7,38,295
+Mary Kay Naro, Boise St. (Mountain West),Senior,71,Guard,ncaaw.p.64478,Boise St.,29,892,44,140,31.4,15,64,23.4,20,28,71.4,25,83,108,128,59,30,21,42,123
+Ines Debroise, Rhode Island (Atlantic 10),Sophomore,69,Guard,ncaaw.p.71091,Rhode Island,33,657,47,137,34.3,8,34,23.5,34,46,73.9,10,54,64,101,48,34,1,60,136
+Molly Mogensen, Creighton (Big East),Senior,67,Guard,ncaaw.p.64709,Creighton,29,926,87,183,47.5,34,77,44.2,25,31,80.6,26,120,146,120,58,30,8,55,233
+Charisma Osborne, UCLA (Pac-12),Senior,69,Guard,ncaaw.p.60881,UCLA,31,1016,156,378,41.3,53,164,32.3,81,91,89,37,115,152,119,55,49,9,64,446
+Leilani McIntosh, California (Pac-12),Senior,65,Guard,ncaaw.p.61383,California,32,1099,102,253,40.3,51,125,40.8,69,85,81.2,31,65,96,156,73,53,5,59,324
+Grace Townsend, Richmond (Atlantic 10),Senior,65,Guard,ncaaw.p.64304,N. Carolina,33,1054,149,315,47.3,26,91,28.6,114,136,83.8,31,134,165,170,83,50,2,54,440
+Jaylyn Sherrod, Colorado (Pac-12),Senior,67,Guard,ncaaw.p.60833,Colorado,31,844,137,309,44.3,16,62,25.8,112,143,78.3,16,84,100,151,72,67,3,78,402
+Savannah Wheeler, Middle Tenn. (CUSA),Senior,66,Guard,ncaaw.p.61229,Middle Tenn. St.,30,1135,176,417,42.2,52,128,40.6,120,140,85.7,9,122,131,150,70,41,4,59,524
+Jordan Hodges, Liberty (CUSA),Junior,66,Guard,ncaaw.p.66799,Liberty,31,974,102,245,41.6,37,97,38.1,25,34,73.5,12,93,105,139,66,29,5,63,266
+Nae Nae Calhoun, California Baptist (WAC),Senior,65,Guard,ncaaw.p.61746,California Baptist,27,791,60,181,33.1,35,96,36.5,33,43,76.7,9,103,112,125,58,53,6,79,188
+Molly Masciantonio, La Salle (Atlantic 10),Senior,70,Guard,ncaaw.p.60449,La Salle,30,933,84,256,32.8,36,132,27.3,45,65,69.2,12,58,70,105,51,47,7,32,249
+Kennady McQueen, Utah (Pac-12),Junior,70,Guard,ncaaw.p.64386,Utah,32,963,121,250,48.4,62,159,39,30,35,85.7,19,112,131,98,49,28,5,36,334
+JaMya Mingo-Young, Auburn (SEC),Senior,68,Guard,ncaaw.p.61013,Auburn,28,720,80,214,37.4,14,39,35.9,76,90,84.4,23,111,134,111,50,45,5,53,250
+Jaz Shelley, Nebraska (Big Ten),Senior,69,Guard,ncaaw.p.60867,Nebraska,32,1044,132,336,39.3,79,224,35.3,94,106,88.7,31,103,134,173,87,53,7,66,437
+Una Jovanovic, TCU (Big 12),Junior,69,Guard,ncaaw.p.67609,TCU,31,859,82,176,46.6,32,80,40,20,30,66.7,14,67,81,98,42,10,2,48,216
+Sarah Andrews, Baylor (Big 12),Senior,66,Guard,ncaaw.p.64354,Baylor,31,920,113,299,37.8,65,186,34.9,52,70,74.3,12,63,75,121,57,38,5,55,343
+O'Mariah Gordon, Florida St. (ACC),Junior,64,Guard,ncaaw.p.67620,Florida St.,33,1020,160,374,42.8,55,143,38.5,68,86,79.1,28,79,107,110,52,30,8,67,443
+Lacy Stokes, Missouri St. (MVC),Junior,64,Guard,ncaaw.p.112902,Missouri St.,29,925,111,266,41.7,21,77,27.3,103,147,70.1,19,63,82,132,67,69,0,57,346
+Jenna Annecchiarico, Col. of Charleston (CAA),Senior,66,Guard,ncaaw.p.57112,Charleston,28,1037,135,338,39.9,44,114,38.6,106,118,89.8,23,104,127,162,83,77,4,58,420
+Taija Sta. Maria, Fresno St. (Mountain West),Freshman,66,Guard,ncaaw.p.112534,Fresno St.,31,1007,82,216,38,22,70,31.4,56,67,83.6,12,65,77,118,56,27,3,49,242
+Jamie Loera, Eastern Wash. (Big Sky),Senior,69,Guard,ncaaw.p.57304,Eastern Wash.,30,999,143,347,41.2,56,136,41.2,57,68,83.8,24,154,178,164,81,72,13,50,399
+Cecelia Collins, Columbia (Ivy League),Junior,72,Guard,ncaaw.p.66948,Columbia,27,702,133,270,49.3,25,78,32.1,83,96,86.5,50,71,121,107,48,11,3,53,374
+Georgia Amoore, Virginia Tech (ACC),Senior,66,Guard,ncaaw.p.64782,Kentucky,30,1059,211,505,41.8,81,238,34,72,84,85.7,12,70,82,208,103,28,11,58,575
+Amari Wright, Seton Hall (Big East),Senior,69,Guard,ncaaw.p.63907,Seton Hall,29,899,47,121,38.8,6,31,19.4,38,52,73.1,10,77,87,158,80,62,11,39,138
+Aleah Nelson, Temple (AAC),Senior,66,Guard,ncaaw.p.60444,Temple,30,953,124,336,36.9,48,153,31.4,66,81,81.5,18,83,101,130,59,37,2,37,362
+Zaay Green, Ark.-Pine Bluff (SWAC),Senior,74,Guard,ncaaw.p.67817,Alabama,27,926,177,411,43.1,24,88,27.3,59,94,62.8,32,173,205,150,76,62,18,62,437
+N'Yah Boyd, Houston (Big 12),Senior,66,Guard,ncaaw.p.61246,Houston,30,880,105,317,33.1,33,119,27.7,50,78,64.1,24,73,97,94,48,38,2,40,293
+Kymora Johnson, Virginia (ACC),Freshman,67,Guard,ncaaw.p.112266,Virginia,30,932,175,420,41.7,59,183,32.2,58,71,81.7,26,117,143,162,87,54,8,59,467
+Kristian Young, UIC (MVC),Senior,65,Guard,ncaaw.p.65247,Ill. Chicago,31,670,26,91,28.6,2,28,7.1,38,79,48.1,27,57,84,113,60,43,3,51,92
+Grace O'Neill, Drexel (CAA),Sophomore,67,Guard,ncaaw.p.70541,Drexel,28,881,54,163,33.1,16,64,25,19,23,82.6,43,109,152,84,42,35,5,41,143
+Jeanae Terry, Purdue (Big Ten),Senior,71,Guard,ncaaw.p.60669,Purdue,31,933,58,147,39.5,2,5,40,42,61,68.9,75,181,256,188,96,60,12,75,160
+Sam Galanopoulos, Loyola Chicago (Atlantic 10),Senior,68,Guard,ncaaw.p.60999,Loyola Chicago,31,1054,160,344,46.5,44,104,42.3,54,74,73,35,64,99,125,65,34,1,62,418
+Nitzan Amar, Manhattan (MAAC),Sophomore,70,Guard,ncaaw.p.67171,Manhattan,25,822,87,215,40.5,26,67,38.8,19,30,63.3,14,73,87,95,52,20,10,24,219
+McKelle Meek, Portland (WCC),Senior,67,Guard,ncaaw.p.65054,Portland,31,678,44,140,31.4,23,84,27.4,26,32,81.3,9,42,51,106,60,23,0,47,137
+Julia Martinez, Saint Louis (Atlantic 10),Senior,70,Guard,ncaaw.p.60721,Saint Louis,29,857,76,173,43.9,6,19,31.6,76,111,68.5,63,123,186,182,99,81,5,70,234
+Amy Velasco, Bowling Green (MAC),Junior,67,Guard,ncaaw.p.67651,Bowling Green,29,1025,139,323,43,43,104,41.3,97,112,86.6,12,74,86,139,69,37,5,69,418
+Ella Sawyer, Indiana St. (MVC),Senior,69,Guard,ncaaw.p.61502,Indiana St.,30,848,56,140,40,10,47,21.3,74,97,76.3,37,96,133,99,48,46,13,92,196
+Mama Dembele, Missouri (SEC),Senior,66,Guard,ncaaw.p.64426,South Florida,29,934,104,243,42.8,12,38,31.6,75,95,78.9,14,129,143,189,100,97,1,76,295
+Bria Sanders-Woods, Murray St. (MVC),Senior,68,Guard,ncaaw.p.64677,Murray St.,29,727,79,191,41.4,23,79,29.1,44,66,66.7,12,49,61,122,70,36,6,72,225
+Ber'Nyah Mayo, St. John's (NY) (Big East),Junior,66,Guard,ncaaw.p.64637,St. John's,31,983,115,301,38.2,21,87,24.1,81,110,73.6,20,78,98,105,61,54,1,42,332
+Caitlin Clark, Iowa (Big Ten),Senior,72,Guard,ncaaw.p.64550,Iowa,32,1088,332,719,46.2,168,437,38.4,188,219,85.8,10,224,234,282,151,55,17,61,1020
+Maya Wong, Illinois St. (MVC),Senior,68,Guard,ncaaw.p.61604,Illinois St.,30,841,97,207,46.9,38,95,40,121,142,85.2,6,67,73,122,66,15,5,65,353
+Ivy Turner, Eastern Ky. (ASUN),Senior,64,Guard,ncaaw.p.61536,E. Kentucky,31,988,120,286,42,38,112,33.9,61,72,84.7,29,89,118,103,54,45,0,28,339
+Chloe Fleming, Southern U. (SWAC),Senior,66,Guard,ncaaw.p.61789,Southern,29,749,61,179,34.1,5,18,27.8,32,55,58.2,20,68,88,114,60,46,4,58,159
+Issy Morgan, Davidson (Atlantic 10),Junior,70,Guard,ncaaw.p.67808,Davidson,24,683,68,165,41.2,19,48,39.6,45,56,80.4,22,46,68,81,44,27,5,72,200
+Jordan Harrison, West Virginia (Big 12),Sophomore,66,Guard,ncaaw.p.71130,West Virginia,31,995,140,304,46.1,39,124,31.5,110,134,82.1,39,87,126,161,87,92,1,74,429
+Zoe Brooks, NC State (ACC),Freshman,70,Guard,ncaaw.p.112212,N.C. State,32,836,105,251,41.8,11,56,19.6,61,85,71.8,18,96,114,114,63,42,17,59,282
+Jenna Clark, Yale (Ivy League),Senior,67,Guard,ncaaw.p.61036,Yale,27,970,133,369,36,44,143,30.8,77,108,71.3,6,113,119,165,92,31,3,77,387
+Kiki Rice, UCLA (Pac-12),Sophomore,71,Guard,ncaaw.p.71186,UCLA,31,958,140,314,44.6,26,80,32.5,86,101,85.1,21,158,179,142,79,47,16,69,392
+Gabby Gregory, Kansas St. (Big 12),Senior,72,Guard,ncaaw.p.60373,Kansas St.,31,856,91,260,35,45,161,28,51,73,69.9,32,81,113,108,58,16,11,43,278
+Emily Mellema, Wyoming (Mountain West),Junior,71,Guard,ncaaw.p.67231,Wyoming,29,852,100,254,39.4,22,86,25.6,41,52,78.8,13,77,90,83,53,41,11,71,263
+Tuti Jones, Belmont (MVC),Junior,67,Guard,ncaaw.p.64360,Belmont,31,1018,125,325,38.5,57,174,32.8,39,53,73.6,26,105,131,127,64,73,4,56,346
+Gia Adams, UT Arlington (WAC),Junior,67,Guard,ncaaw.p.67562,UT Arlington,30,972,162,360,45,46,124,37.1,76,92,82.6,15,75,90,100,60,47,5,79,446
+Serena Sundell, Kansas St. (Big 12),Junior,73,Guard,ncaaw.p.66864,Kansas St.,31,1000,144,265,54.3,30,80,37.5,54,86,62.8,17,103,120,168,91,39,23,48,372
+Kaitlyn Chen, Princeton (Ivy League),Senior,69,Guard,ncaaw.p.67676,Connecticut,27,928,168,342,49.1,19,59,32.2,67,85,78.8,24,72,96,136,71,32,10,55,422
+Dyaisha Fair, Syracuse (ACC),Senior,65,Guard,ncaaw.p.61082,Syracuse,30,1094,219,558,39.2,107,282,37.9,115,144,79.9,42,100,142,104,59,67,6,15,660
+Izzy Higginbottom, Arkansas St. (Sun Belt),Junior,67,Guard,ncaaw.p.66875,Arkansas,26,967,183,396,46.2,36,98,36.7,175,192,91.1,22,83,105,95,55,35,4,39,577
+Sharonica Hartsfield, Troy (Sun Belt),Junior,65,Guard,ncaaw.p.64031,Grambling St.,30,506,24,79,30.4,5,19,26.3,16,30,53.3,27,45,72,95,57,44,2,60,69
+Jordan Hobbs, Michigan (Big Ten),Junior,75,Guard,ncaaw.p.67558,Michigan,33,945,113,268,42.2,45,115,39.1,55,68,80.9,15,119,134,98,56,21,10,62,326
+Kyla Hamilton, Nicholls (Southland),Senior,66,Guard,ncaaw.p.60912,Nicholls,30,948,106,259,40.9,33,103,32,44,61,72.1,33,87,120,96,57,48,2,72,289
+Luana Leite, San Francisco (WCC),Junior,67,Guard,ncaaw.p.112693,San Francisco,30,906,84,235,35.7,2,24,8.3,66,96,68.8,47,65,112,130,76,39,3,71,236
+Hailey Giaratano, Southeastern La. (Southland),Senior,70,Guard,ncaaw.p.60978,SE Louisiana,29,1029,144,356,40.4,15,60,25,58,73,79.5,21,96,117,86,49,26,10,40,361
+Laila Jewett, UCF (Big 12),Junior,70,Guard,ncaaw.p.67202,UCF,29,886,79,211,37.4,37,94,39.4,45,50,90,8,67,75,99,58,25,3,55,240
+Madison Booker, Texas (Big 12),Freshman,73,Forward,ncaaw.p.112222,Texas,31,942,186,409,45.5,17,58,29.3,127,145,87.6,25,127,152,154,90,48,10,75,516
+Shayeann Day-Wilson, Miami (FL) (ACC),Junior,66,Guard,ncaaw.p.67853,LSU,31,929,132,319,41.4,60,163,36.8,44,61,72.1,12,73,85,110,65,23,2,71,368
+Lauren Jensen, Creighton (Big East),Senior,70,Guard,ncaaw.p.64546,Creighton,29,1006,189,421,44.9,65,183,35.5,61,68,89.7,19,89,108,91,54,24,7,59,504
+RyAnne Walters, UC Riverside (Big West),Senior,67,Guard,ncaaw.p.67815,Louisiana,24,664,45,160,28.1,24,75,32,14,21,66.7,10,67,77,76,43,48,2,47,128
+Jasmine Powell, Tennessee (SEC),Senior,66,Guard,ncaaw.p.60804,Tennessee,30,888,94,243,38.7,21,77,27.3,72,94,76.6,33,108,141,123,76,28,4,56,281
+Alyssa Marin, UC Santa Barbara (Big West),Senior,69,Guard,ncaaw.p.64518,UCSB,27,703,82,239,34.3,41,108,38,112,136,82.4,16,48,64,83,52,25,2,54,317
+Jordyn Cambridge, Vanderbilt (SEC),Senior,69,Guard,ncaaw.p.57398,Vanderbilt,31,1072,128,373,34.3,42,153,27.5,75,103,72.8,53,134,187,137,86,111,7,80,373
+Kyra White, UTSA (AAC),Senior,70,Guard,ncaaw.p.60886,UTSA,29,1005,110,336,32.7,39,142,27.5,39,58,67.2,24,124,148,134,89,31,29,56,298
+Abby Beeman, Marshall (Sun Belt),Senior,64,Guard,ncaaw.p.66529,Marshall,30,826,191,382,50,65,169,38.5,58,80,72.5,63,110,173,188,117,68,7,47,505
+Hannah Hidalgo, Notre Dame (ACC),Freshman,66,Guard,ncaaw.p.112250,Notre Dame,31,1104,255,560,45.5,45,132,34.1,170,217,78.3,25,175,200,170,109,145,3,86,725
+Sandra Frau-Garcia, UIC (MVC),Junior,67,Guard,ncaaw.p.112921,Ill. Chicago,31,601,27,75,36,3,8,37.5,31,50,62,19,53,72,126,70,48,3,63,88
+Payton Verhulst, Oklahoma (Big 12),Junior,73,Guard,ncaaw.p.66683,Oklahoma,29,831,133,332,40.1,50,142,35.2,47,61,77,27,144,171,117,73,35,28,69,363
+Adrianna Smith, Maine (America East),Junior,70,Forward,ncaaw.p.66828,Maine,31,1058,190,445,42.7,9,36,25,117,151,77.5,88,257,345,145,84,44,25,91,506
+Jaddan Simmons, Arizona St. (Pac-12),Senior,69,Guard,ncaaw.p.64065,Michigan St.,31,1139,88,248,35.5,10,30,33.3,108,139,77.7,40,88,128,104,64,57,13,63,294
+Shyanne Sellers, Maryland (Big Ten),Junior,74,Guard,ncaaw.p.66914,Maryland,31,1004,154,358,43,20,64,31.3,151,179,84.4,32,147,179,171,108,41,20,86,479
+Ally Knights, Hofstra (CAA),Senior,66,Guard,ncaaw.p.64905,Hofstra,29,811,30,111,27,12,57,21.1,34,42,81,32,98,130,100,60,36,4,63,106
+KK Arnold, UConn (Big East),Freshman,69,Guard,ncaaw.p.112051,Connecticut,32,952,106,222,47.7,25,71,35.2,56,83,67.5,16,78,94,103,59,74,2,77,293
+Reagan Bradley, SMU (AAC),Senior,68,Guard,ncaaw.p.61063,SMU,30,1051,108,293,36.9,27,96,28.1,49,59,83.1,27,78,105,117,73,43,3,54,292
+Crystal Henderson, Georgia St. (Sun Belt),Freshman,65,Guard,ncaaw.p.113059,Georgia St.,30,930,116,326,35.6,32,119,26.9,80,119,67.2,33,53,86,136,85,55,2,64,344
+Jacy Sheldon, Ohio St. (Big Ten),Senior,70,Guard,ncaaw.p.60863,Ohio St.,30,1000,198,389,50.9,57,150,38,86,99,86.9,29,67,96,112,72,62,5,57,539
+Jada Walker, Baylor (Big 12),Junior,67,Guard,ncaaw.p.66776,Baylor,31,763,89,220,40.5,12,55,21.8,43,54,79.6,4,47,51,99,65,52,1,54,233
+Nina De Leon Negron, UIW (Southland),Senior,66,Guard,ncaaw.p.64258,UTSA,28,976,111,295,37.6,31,110,28.2,64,78,82.1,58,130,188,92,56,46,5,51,317
+Quierra Love, Southern Ill. (MVC),Senior,64,Guard,ncaaw.p.64174,Southern Ill.,30,1023,98,252,38.9,52,138,37.7,53,68,77.9,23,63,86,119,72,63,1,62,301
+Emma Smith, Denver (Summit League),Sophomore,68,Guard,ncaaw.p.70692,Denver,30,1080,122,327,37.3,70,217,32.3,68,83,81.9,31,100,131,104,66,63,1,73,382
+Sydney Gandy, LMU (CA) (WCC),Senior,65,Guard,ncaaw.p.64351,Southern Utah,30,878,43,190,22.6,23,104,22.1,24,30,80,4,53,57,119,76,11,3,55,133
+Makira Cook, Illinois (Big Ten),Senior,66,Guard,ncaaw.p.65006,Illinois,26,912,143,379,37.7,35,113,31,83,95,87.4,17,64,81,112,78,30,5,54,404
+Sara Wohlgemuth, North Ala. (ASUN),Senior,64,Guard,ncaaw.p.71727,North Alabama,30,664,47,134,35.1,23,63,36.5,34,55,61.8,13,100,113,124,82,22,1,31,151
+Alexia Nelson, Towson (CAA),Senior,67,Guard,ncaaw.p.65257,Towson,28,906,93,242,38.4,25,81,30.9,67,96,69.8,31,85,116,88,53,33,2,69,278
+Asia Avinger, Georgia (SEC),Junior,67,Guard,ncaaw.p.64945,Georgia,30,852,80,233,34.3,29,94,30.9,44,71,62,12,89,101,131,85,37,3,73,233
+Kaylah Rainey, Tulane (AAC),Senior,66,Guard,ncaaw.p.61477,Tulane,28,750,30,106,28.3,20,69,29,14,19,73.7,10,54,64,109,69,32,3,57,94
+Kaylee Smiler, BYU (Big 12),Senior,68,Guard,ncaaw.p.57571,BYU,31,1103,64,153,41.8,39,87,44.8,50,68,73.5,6,63,69,114,75,42,34,79,217
+Destiny Jackson, Rice (AAC),Senior,69,Guard,ncaaw.p.61431,Rice,29,814,114,265,43,10,58,17.2,76,90,84.4,38,104,142,97,64,37,6,57,314
+Harmoni Turner, Harvard (Ivy League),Junior,70,Guard,ncaaw.p.64038,Harvard,22,734,156,381,40.9,27,101,26.7,85,107,79.4,36,101,137,95,64,46,3,43,424
+Jadyn Weltz, Binghamton (America East),Sophomore,67,Guard,ncaaw.p.66621,Binghamton,30,898,114,246,46.3,29,109,26.6,51,65,78.5,21,130,151,135,88,49,2,83,308
+Hannah Cooper, Oral Roberts (Summit League),Senior,67,Guard,ncaaw.p.62935,Oral Roberts,29,998,142,336,42.3,26,76,34.2,116,148,78.4,23,81,104,111,76,42,7,65,426
+Lucy Olsen, Villanova (Big East),Junior,69,Guard,ncaaw.p.67706,Iowa,30,1087,268,612,43.8,47,158,29.7,114,141,80.9,30,114,144,115,73,57,18,72,697
+Addy Brown, Iowa St. (Big 12),Freshman,74,Forward,ncaaw.p.112289,Iowa St.,29,969,148,313,47.3,44,118,37.3,48,64,75,39,207,246,142,93,25,15,59,388
+Dayshanette Harris, Clemson (ACC),Senior,67,Guard,ncaaw.p.60462,Clemson,31,824,146,335,43.6,25,76,32.9,123,172,71.5,27,87,114,156,104,54,3,66,440
+McKenzie Forbes, Southern California (Pac-12),Senior,72,Guard,ncaaw.p.57843,USC,30,1009,133,360,36.9,60,169,35.5,66,86,76.7,22,70,92,101,62,22,3,63,392
+Rana Elhusseini, Buffalo (MAC),Senior,63,Guard,ncaaw.p.112589,Buffalo,29,1042,78,205,38,46,126,36.5,56,62,90.3,28,136,164,108,68,45,0,67,258
+Jayden Marable, NIU (MAC),Senior,66,Guard,ncaaw.p.65136,Coastal Car.,30,962,140,361,38.8,22,74,29.7,41,64,64.1,24,129,153,122,86,40,9,35,343
+Caroline Lau, Northwestern (Big Ten),Sophomore,69,Guard,ncaaw.p.71536,Northwestern,30,866,86,212,40.6,35,97,36.1,27,39,69.2,25,101,126,163,115,32,9,70,234
+Jordyn Dorsey, N.C. A&T (CAA),Junior,69,Guard,ncaaw.p.66979,N.C. A&T,29,940,117,295,39.7,23,81,28.4,127,162,78.4,50,102,152,101,71,40,5,62,384
+Tippy Robertson, N.C. Central (MEAC),Senior,64,Guard,ncaaw.p.60695,N.C. Central,27,803,58,163,35.6,12,49,24.5,49,73,67.1,26,99,125,108,69,29,2,59,177
+Last-Tear Poa, LSU (SEC),Senior,71,Guard,ncaaw.p.71260,LSU,32,653,40,92,43.5,6,26,23.1,74,87,85.1,7,42,49,99,70,37,11,62,160
+Mikyla Tolivert, Georgia St. (Sun Belt),Junior,66,Guard,ncaaw.p.66761,Georgia St.,28,834,134,316,42.4,30,91,33,98,124,79,28,119,147,97,67,55,15,56,396
+Diaba Konate, UC Irvine (Big West),Senior,67,Guard,ncaaw.p.60273,UC Irvine,29,766,93,245,38,0,23,0,32,49,65.3,22,46,68,108,78,62,2,70,218
+Ally Becki, Ball St. (MAC),Junior,68,Guard,ncaaw.p.66590,Ball St.,31,972,143,341,41.9,63,181,34.8,49,65,75.4,21,122,143,148,108,60,11,69,398
+Eleyana Tafisi, Utah Valley (WAC),Junior,66,Guard,ncaaw.p.64503,Appalachian St.,29,742,77,197,39.1,8,34,23.5,33,59,55.9,35,65,100,105,73,47,8,103,195
+Ronnie Porter, Wisconsin (Big Ten),Sophomore,64,Guard,ncaaw.p.71494,Wisconsin,29,1010,109,290,37.6,24,98,24.5,49,70,70,49,110,159,122,86,59,3,61,291
+Haven Ford, Murray St. (MVC),Freshman,66,Guard,ncaaw.p.112896,Murray St.,29,599,90,226,39.8,26,97,26.8,95,111,85.6,30,97,127,92,60,49,4,73,301
+Benthe Versteeg, Sacramento St. (Big Sky),Sophomore,69,Guard,ncaaw.p.67295,Sacramento St.,30,1111,128,358,35.8,11,48,22.9,74,123,60.2,37,71,108,201,141,56,4,88,341
+Saniya Rivers, NC State (ACC),Junior,73,Guard,ncaaw.p.67516,N.C. State,29,1009,125,316,39.6,20,77,26,93,125,74.4,18,165,183,117,76,66,25,42,363
+Anna Gret Asi, Oklahoma St. (Big 12),Junior,68,Guard,ncaaw.p.66625,Oklahoma St.,30,1023,129,301,42.9,62,162,38.3,61,79,77.2,8,93,101,139,97,44,7,77,381
+Amaya Battle, Minnesota (Big Ten),Sophomore,71,Guard,ncaaw.p.70840,Minnesota,31,978,145,370,39.2,10,41,24.4,68,85,80,25,116,141,170,113,46,3,75,368
+Denim DeShields, UAB (AAC),Sophomore,65,Guard,ncaaw.p.71196,Mississippi St.,30,996,146,347,42.1,11,64,17.2,87,110,79.1,16,76,92,160,114,38,2,66,390
+Nakyah Terrell, High Point (Big South),Junior,66,Guard,ncaaw.p.67813,High Point,31,892,98,252,38.9,24,90,26.7,40,68,58.8,7,119,126,104,73,37,2,54,260
+Silvia Nativi, Louisiana Tech (CUSA),Junior,72,Guard,ncaaw.p.66842,Northern Colorado,31,844,74,161,46,23,70,32.9,10,18,55.6,43,64,107,104,76,24,12,64,181
+Madison Scott, Ole Miss (SEC),Senior,73,Forward,ncaaw.p.65110,Mississippi,30,923,135,276,48.9,2,9,22.2,101,143,70.6,65,129,194,102,70,26,20,63,373
+Celeste Taylor, Ohio St. (Big Ten),Senior,71,Guard,ncaaw.p.60397,Ohio St.,30,860,113,277,40.8,38,118,32.2,41,65,63.1,25,98,123,103,72,70,28,84,305
+Taina Mair, Duke (ACC),Freshman,69,Guard,ncaaw.p.70637,Duke,31,976,123,315,39,37,126,29.4,34,39,87.2,19,103,122,114,79,46,6,63,317
+Anaiyah Tu'ua, California Baptist (WAC),Sophomore,69,Guard,ncaaw.p.63967,California Baptist,28,840,84,216,38.9,33,105,31.4,54,74,73,33,104,137,96,68,40,8,56,255
+Chloe Hodges, Drexel (CAA),Senior,72,Forward,ncaaw.p.64219,Drexel,29,810,104,214,48.6,1,17,5.9,50,61,82,44,107,151,95,66,36,10,53,259
+Anne Bair, Manhattan (MAAC),Sophomore,68,Guard,ncaaw.p.71528,Colgate,27,973,78,211,37,35,102,34.3,51,61,83.6,11,63,74,92,69,33,0,42,242
+Hailey Van Lith, LSU (SEC),Senior,67,Guard,ncaaw.p.64245,TCU,28,875,113,287,39.4,36,101,35.6,80,98,81.6,12,53,65,103,73,36,11,56,342
+Tanajah Hayes, FIU (CUSA),Junior,66,Guard,ncaaw.p.66729,Florida Intl.,24,701,98,234,41.9,19,59,32.2,44,59,74.6,16,62,78,91,64,53,5,36,259
+Ta'Niya Latson, Florida St. (ACC),Sophomore,68,Guard,ncaaw.p.70600,Florida St.,32,991,249,566,44,27,98,27.6,155,182,85.2,17,118,135,128,98,50,13,53,680
+Brooke Mullin, Drexel (CAA),Senior,71,Guard,ncaaw.p.61061,Drexel,29,884,117,353,33.1,44,138,31.9,21,31,67.7,12,85,97,110,75,44,21,71,299
+Loyal McQueen, Alabama (SEC),Senior,68,Guard,ncaaw.p.63929,Clemson,32,972,95,241,39.4,20,67,29.9,97,122,79.5,18,74,92,98,68,25,1,38,307
+Iyanna Warren, Howard (MEAC),Senior,63,Guard,ncaaw.p.61106,Howard,26,779,90,300,30,14,61,23,115,147,78.2,14,56,70,87,64,30,2,44,309
+Veronica Sheffey, San Diego (WCC),Sophomore,69,Guard,ncaaw.p.71106,SDSU,31,924,135,323,41.8,11,36,30.6,98,133,73.7,35,64,99,158,116,45,10,94,379
+Elena Rodriguez, Harvard (Ivy League),Junior,74,Guard,ncaaw.p.66764,Harvard,23,625,94,180,52.2,13,38,34.2,44,61,72.1,46,108,154,77,56,27,16,63,245
+Daisha Bradford, ULM (Sun Belt),Senior,68,Guard,ncaaw.p.66678,LA Monroe,32,1081,214,550,38.9,71,227,31.3,120,156,76.9,59,185,244,142,99,56,17,83,619
+Tonie Morgan, Georgia Tech (ACC),Sophomore,69,Guard,ncaaw.p.70709,Georgia Tech,32,1022,182,396,46,15,57,26.3,121,180,67.2,50,170,220,165,124,54,9,69,500
+Miah Monahan, Eastern Ill. (OVC),Junior,68,Guard,ncaaw.p.66704,Eastern Illinois,33,1184,136,350,38.9,32,125,25.6,66,84,78.6,20,119,139,169,125,43,4,37,370
+Elisa Mevius, Siena (MAAC),Sophomore,70,Guard,ncaaw.p.71169,Oregon,28,1002,132,285,46.3,25,93,26.9,43,60,71.7,43,141,184,140,104,121,9,64,332
+Amyah Reaves, Hampton (CAA),Junior,67,Guard,ncaaw.p.68125,Hampton,22,667,67,175,38.3,4,27,14.8,41,57,71.9,25,63,88,75,53,54,6,71,179
+Kitty Henderson, Columbia (Ivy League),Junior,70,Guard,ncaaw.p.66664,Columbia,27,849,124,258,48.1,29,89,32.6,43,76,56.6,69,96,165,112,75,51,5,67,320
+Ashley Hawkins, Gardner-Webb (Big South),Junior,66,Guard,ncaaw.p.100658,Gardner-Webb,30,974,173,410,42.2,31,85,36.5,95,122,77.9,29,85,114,168,125,22,3,70,472
+Ella Fajardo, Iona (MAAC),Junior,65,Guard,ncaaw.p.66735,Iona,29,874,64,214,29.9,24,97,24.7,49,59,83.1,32,76,108,99,75,34,2,74,201
+Delma Zita, UTEP (CUSA),Junior,68,Guard,ncaaw.p.112152,UTEP,27,682,59,134,44,7,24,29.2,16,31,51.6,13,29,42,83,68,36,2,47,141
+Grace Larkins, South Dakota (Summit League),Junior,69,Guard,ncaaw.p.67390,South Dakota,31,990,170,343,49.6,40,107,37.4,115,136,84.6,58,166,224,158,115,48,8,82,495
+Mackenzie Amalia, Canisius (MAAC),Senior,65,Guard,ncaaw.p.64371,East. Michigan,29,1007,79,257,30.7,49,152,32.2,43,75,57.3,23,68,91,125,95,38,0,66,250
+Maraja Pass, Elon (CAA),Freshman,64,Guard,ncaaw.p.112528,Elon,29,764,93,229,40.6,8,28,28.6,62,96,64.6,29,92,121,108,84,39,2,65,256
+Yarden Garzon, Indiana (Big Ten),Sophomore,75,Guard,ncaaw.p.70760,Indiana,29,845,128,279,45.9,57,130,43.8,24,38,63.2,20,106,126,88,66,28,15,81,337
+Anaya Peoples, DePaul (Big East),Senior,70,Guard,ncaaw.p.60430,DePaul,31,995,206,468,44,10,56,17.9,99,139,71.2,52,195,247,105,81,74,29,88,521
+Amari Whiting, BYU (Big 12),Freshman,70,Guard,ncaaw.p.112276,BYU,32,1008,114,289,39.4,30,96,31.3,79,132,59.8,27,130,157,119,92,49,7,92,337
+Sonia Smith, George Mason (Atlantic 10),Senior,67,Guard,ncaaw.p.60938,George Mason,28,878,162,401,40.4,44,138,31.9,59,79,74.7,22,67,89,85,67,33,5,46,427
+Breanna Campbell, Marshall (Sun Belt),Senior,65,Guard,ncaaw.p.113107,Marshall,29,718,146,293,49.8,30,77,39,114,144,79.2,48,66,114,109,80,59,2,58,436
+Paige Meyer, South Dakota St. (Summit League),Junior,66,Guard,ncaaw.p.67392,S. Dakota St.,27,782,147,284,51.8,35,81,43.2,77,110,70,14,71,85,107,85,39,0,58,406
+Veronica Charles, Morehead St. (OVC),Senior,64,Guard,ncaaw.p.67302,Morehead St.,30,982,136,394,34.5,41,142,28.9,112,140,80,28,84,112,122,95,75,0,75,425
+Nya Threatt, UT Arlington (WAC),Sophomore,66,Guard,ncaaw.p.71279,UT Arlington,30,792,48,160,30,14,54,25.9,58,83,69.9,25,74,99,86,74,37,8,71,168
+Gemma Nunez, Campbell (CAA),Sophomore,67,Guard,ncaaw.p.70646,Campbell,29,911,57,175,32.6,14,71,19.7,34,43,79.1,11,121,132,98,77,38,6,48,162
+Grace Cave, Omaha (Summit League),Junior,67,Guard,ncaaw.p.67273,Nebraska Omaha,29,847,116,281,41.3,40,108,37,84,103,81.6,29,86,115,97,75,43,13,71,356
+Alexis Mead, Western Ky. (CUSA),Junior,65,Guard,ncaaw.p.67352,W. Kentucky,31,977,122,296,41.2,48,133,36.1,57,76,75,40,90,130,126,100,61,2,80,349
+Sydney Burns, UC Davis (Big West),Junior,69,Guard,ncaaw.p.67399,UC Davis,30,728,61,143,42.7,12,59,20.3,40,49,81.6,11,70,81,105,80,30,0,39,174
+Samantha Johnston, Southern Utah (WAC),Senior,72,Guard,ncaaw.p.64321,Southern Utah,29,988,93,266,35,72,215,33.5,37,47,78.7,4,122,126,99,80,27,30,54,295
+Kameryn Dorsey, Saint Francis (PA) (NEC),Freshman,66,Guard,ncaaw.p.113351,St. Francis (PA),29,704,46,155,29.7,2,16,12.5,11,21,52.4,14,87,101,97,75,34,4,67,105
+Keshuna Luckett, Jackson St. (SWAC),Senior,68,Guard,ncaaw.p.61415,Jackson St.,29,669,53,168,31.5,10,48,20.8,75,93,80.6,18,55,73,111,89,25,3,50,191
+Trinity San Antonio, Grand Canyon (WAC),Junior,70,Guard,ncaaw.p.67313,Grand Canyon,27,790,124,282,44,15,45,33.3,40,51,78.4,25,81,106,92,76,62,4,78,303
+Domonique Davis, Southern Miss. (Sun Belt),Senior,66,Guard,ncaaw.p.61003,Southern Miss,30,940,203,455,44.6,47,129,36.4,141,176,80.1,12,101,113,100,81,47,3,61,594
+Brooklynn Miles, Kentucky (SEC),Junior,64,Guard,ncaaw.p.67098,Pittsburgh,32,957,66,170,38.8,8,40,20,44,72,61.1,19,72,91,96,77,38,4,59,184
+Tess Heal, Santa Clara (WCC),Sophomore,70,Guard,ncaaw.p.71685,Stanford,31,979,202,418,48.3,29,78,37.2,175,200,87.5,28,87,115,149,124,23,8,58,608
+Paige Kohler, Bowling Green (MAC),Freshman,68,Guard,ncaaw.p.112583,Bowling Green,29,961,100,301,33.2,36,134,26.9,75,95,78.9,12,108,120,107,84,27,1,79,311
+Cara McCormack, Holy Cross (Patriot),Senior,63,Guard,ncaaw.p.64142,Drexel,29,916,104,301,34.6,49,161,30.4,40,52,76.9,17,79,96,93,73,20,6,71,297
+Abby Schulte, North Dakota St. (Summit League),Senior,70,Guard,ncaaw.p.64889,N. Dak. St.,29,817,65,162,40.1,15,39,38.5,61,79,77.2,12,67,79,85,69,39,5,68,206
+Gigi Gonzalez, Stony Brook (CAA),Senior,67,Guard,ncaaw.p.60337,Stony Brook,28,865,150,369,40.7,38,119,31.9,108,131,82.4,30,82,112,141,113,40,0,48,446
+Kylie Kornegay-Lucas, Towson (CAA),Senior,70,Guard,ncaaw.p.60498,Towson,28,878,128,394,32.5,26,93,28,72,87,82.8,40,185,225,94,80,66,33,84,354
+Alyssa Ustby, North Carolina (ACC),Senior,73,Guard,ncaaw.p.65368,N. Carolina,31,1047,165,345,47.8,3,11,27.3,52,87,59.8,98,191,289,112,88,53,40,105,385
+Genesis Bryant, Illinois (Big Ten),Senior,66,Guard,ncaaw.p.65146,Illinois,29,980,138,354,39,56,163,34.4,76,89,85.4,11,80,91,99,75,37,4,72,408
+Emma Utterback, Vermont (America East),Senior,68,Guard,ncaaw.p.61471,Vermont,31,1006,189,424,44.6,15,67,22.4,58,97,59.8,16,73,89,123,103,34,8,64,451
+Jordan McLaughlin, Old Dominion (Sun Belt),Senior,67,Guard,ncaaw.p.60636,Old Dominion,30,909,109,304,35.9,23,80,28.8,69,90,76.7,23,90,113,93,69,35,4,51,310
+Colbi Maples, Cleveland St. (Horizon),Junior,68,Guard,ncaaw.p.66861,Cleveland St.,32,922,181,401,45.1,29,81,35.8,143,206,69.4,23,47,70,138,104,60,2,60,534
+Kiyley Flowers, Southeast Mo. St. (OVC),Junior,67,Guard,ncaaw.p.66885,Eastern Illinois,28,801,50,148,33.8,14,62,22.6,36,57,63.2,9,98,107,99,81,74,15,78,150
+Elise Williams, Wake Forest (ACC),Junior,69,Guard,ncaaw.p.66451,Wake Forest,31,996,134,385,34.8,47,148,31.8,96,116,82.8,25,129,154,116,92,61,10,73,411
+Quinesha Lockett, Toledo (MAC),Senior,70,Guard,ncaaw.p.60574,Toledo,23,669,132,299,44.1,22,87,25.3,73,94,77.7,35,107,142,74,62,29,8,49,359
+Abby Antognoli, Lafayette (Patriot),Junior,67,Guard,ncaaw.p.67438,Lafayette,29,1084,130,335,38.8,55,153,35.9,32,39,82.1,13,91,104,91,75,37,2,12,347
+Kelsey Ransom, Georgetown (Big East),Senior,70,Guard,ncaaw.p.64872,Georgetown,31,1095,156,411,38,19,84,22.6,94,126,74.6,34,110,144,132,111,69,13,86,425
+Samara Spencer, Arkansas (SEC),Junior,69,Guard,ncaaw.p.66629,Tennessee,32,1109,142,420,33.8,38,147,25.9,124,167,74.3,20,126,146,111,92,42,6,55,446
+Jayla Adams, North Florida (ASUN),Senior,66,Guard,ncaaw.p.100967,North Florida,30,987,106,289,36.7,36,120,30,59,78,75.6,30,66,96,98,81,27,8,56,307
+Trinity Johnson, USC Upstate (Big South),Senior,67,Guard,ncaaw.p.56872,S.Car. Upstate,30,982,84,236,35.6,13,49,26.5,133,183,72.7,15,109,124,145,118,64,4,89,314
+Jiselle Woodson, Northwestern St. (Southland),Senior,65,Guard,ncaaw.p.67040,N'western St.,24,756,88,279,31.5,27,111,24.3,53,72,73.6,20,77,97,77,62,29,5,38,256
+Kennedi Grant, Omaha (Summit League),Junior,67,Guard,ncaaw.p.67275,Nebraska Omaha,28,810,104,289,36,13,60,21.7,97,141,68.8,26,63,89,93,77,44,4,75,318
+Avery Brittingham, UT Arlington (WAC),Senior,73,Forward,ncaaw.p.64520,UT Arlington,30,866,143,323,44.3,9,35,25.7,71,130,54.6,58,185,243,118,103,46,39,84,366
+Makayla Miller, La Salle (Atlantic 10),Senior,67,Guard,ncaaw.p.112429,La Salle,30,814,104,256,40.6,17,60,28.3,68,112,60.7,32,73,105,94,78,54,11,87,293
+Kyla Deck, SFA (WAC),Sophomore,69,Guard,ncaaw.p.71131,North Texas,26,878,110,276,39.9,43,120,35.8,57,89,64,8,83,91,80,65,69,2,58,320
+Deja Kelly, North Carolina (ACC),Senior,68,Guard,ncaaw.p.65130,Oregon,31,1115,165,471,35,32,111,28.8,157,221,71,15,108,123,101,77,44,9,78,519
+Colleen McQuillen, Lehigh (Patriot),Junior,70,Guard,ncaaw.p.66734,Lehigh,26,760,78,180,43.3,35,98,35.7,44,50,88,8,73,81,97,82,34,8,47,235
+Tate Walters, Furman (SoCon),Junior,69,Guard,ncaaw.p.64798,Furman,26,693,88,242,36.4,35,107,32.7,49,75,65.3,11,81,92,107,91,30,6,74,260
+Lexi Rubel, UT Martin (OVC),Sophomore,73,Forward,ncaaw.p.71400,Tenn-Martin,30,1095,98,203,48.3,7,24,29.2,62,78,79.5,54,161,215,110,94,51,10,69,265
+Maddie Scherr, Kentucky (SEC),Senior,71,Guard,ncaaw.p.65059,TCU,26,861,104,310,33.5,36,125,28.8,80,98,81.6,40,84,124,89,77,41,19,71,324
+Ainhoa Cea, Lipscomb (ASUN),Sophomore,66,Guard,ncaaw.p.71521,Lipscomb,28,637,50,127,39.4,5,15,33.3,17,20,85,30,86,116,91,79,23,3,65,122
+Addi Brownfield, Western Ill. (OVC),Sophomore,69,Guard,ncaaw.p.71471,Western Ill.,30,889,90,248,36.3,15,67,22.4,113,169,66.9,50,112,162,105,92,53,18,83,308
+Bella Earle, Abilene Christian (WAC),Junior,70,Guard,ncaaw.p.66592,Abilene Christian,29,1008,120,303,39.6,48,167,28.7,68,87,78.2,68,170,238,113,98,32,7,70,356
+Ayanna Khalfani, UNC Greensboro (SoCon),Senior,71,Guard,ncaaw.p.61460,N.C. Greensboro,31,911,139,314,44.3,0,6,0,66,110,60,87,126,213,109,96,41,30,75,344
+Kamy Peppler, Milwaukee (Horizon),Sophomore,66,Guard,ncaaw.p.70838,Milwaukee,32,1038,128,330,38.8,65,189,34.4,48,62,77.4,18,94,112,153,135,45,7,84,369
+Sidney Love, UTSA (AAC),Sophomore,68,Guard,ncaaw.p.71431,UTSA,29,874,100,286,35,17,88,19.3,66,80,82.5,18,85,103,91,88,39,4,76,283
+Chellia Watson, Buffalo (MAC),Senior,68,Guard,ncaaw.p.60460,Buffalo,29,1037,258,606,42.6,50,166,30.1,92,114,80.7,32,120,152,96,87,32,3,59,658
+Cameron Brink, Stanford (Pac-12),Senior,76,Forward,ncaaw.p.64493,Stanford,30,762,188,364,51.6,17,63,27,140,162,86.4,84,273,357,86,73,22,103,79,533
+Lucy Cochrane, Portland (WCC),Senior,78,Forward,ncaaw.p.60872,Portland,30,871,97,233,41.6,2,19,10.5,32,51,62.7,43,152,195,76,60,20,95,31,228
+Taiyanna Jackson, Kansas (Big 12),Senior,78,Center,ncaaw.p.67821,Kansas,30,795,159,271,58.7,0,1,0,61,126,48.4,108,187,295,12,81,31,94,104,379
+Angel Jackson, Jackson St. (SWAC),Senior,77,Center,ncaaw.p.60884,Jackson St.,29,711,104,220,47.3,3,5,60,83,101,82.2,61,133,194,27,36,28,79,66,294
+Anastasiia Boldyreva, Middle Tenn. (CUSA),Junior,78,Center,ncaaw.p.67015,Middle Tenn. St.,30,910,186,311,59.8,11,28,39.3,58,102,56.9,88,166,254,30,62,23,88,75,441
+Caitlin Weimar, Boston U. (Patriot),Senior,76,Forward,ncaaw.p.64464,N.C. State,28,987,199,359,55.4,0,0,,121,177,68.4,76,219,295,54,69,37,80,74,519
+Josie Hill, Chicago St. (DI Independent),Sophomore,73,Center,ncaaw.p.70946,Chicago St.,27,798,99,224,44.2,1,9,11.1,49,59,83.1,58,140,198,41,75,26,76,75,248
+Serah Williams, Wisconsin (Big Ten),Sophomore,76,Forward,ncaaw.p.71497,Wisconsin,27,837,177,341,51.9,8,23,34.8,118,151,78.1,88,217,305,23,102,19,77,72,480
+Ayoka Lee, Kansas St. (Big 12),Senior,78,Center,ncaaw.p.56782,Kansas St.,24,631,198,319,62.1,1,1,100,80,116,69,66,135,201,19,30,25,68,55,477
+Anna Miller, Drake (MVC),Junior,75,Forward,ncaaw.p.67848,Drake,31,758,165,304,54.3,14,52,26.9,65,95,68.4,84,222,306,65,80,33,82,60,409
+Abby Muse, Boise St. (Mountain West),Senior,74,Forward,ncaaw.p.64516,Boise St.,31,785,90,186,48.4,0,0,,50,92,54.3,74,191,265,34,66,36,87,72,230
+Makayla Timpson, Florida St. (ACC),Junior,74,Forward,ncaaw.p.67621,Florida St.,33,978,196,346,56.6,1,3,33.3,71,99,71.7,110,221,331,12,42,47,83,73,464
+Addie Budnik, Richmond (Atlantic 10),Senior,74,Forward,ncaaw.p.64318,Richmond,33,1028,126,270,46.7,64,156,41,70,81,86.4,37,98,135,82,65,21,83,58,386
+Kamilla Cardoso, South Carolina (SEC),Senior,79,Center,ncaaw.p.64660,South Carolina,27,675,152,258,58.9,1,1,100,78,116,67.2,96,164,260,60,45,16,71,52,383
+Emily Bowman, Samford (SoCon),Sophomore,77,Center,ncaaw.p.64719,Samford,30,703,89,192,46.4,0,0,,60,113,53.1,83,172,255,17,55,5,74,88,238
+Belle Kranbuhl, Monmouth (CAA),Senior,75,Center,ncaaw.p.64497,Monmouth,29,746,69,142,48.6,0,1,0,19,30,63.3,60,160,220,47,60,26,74,73,157
+Ashlyn Watkins, South Carolina (SEC),Sophomore,75,Forward,ncaaw.p.71778,South Carolina,31,627,129,222,58.1,0,1,0,49,88,55.7,86,134,220,36,43,38,72,75,307
+Christina Dalce, Villanova (Big East),Junior,74,Forward,ncaaw.p.67708,Maryland,30,833,108,252,42.9,0,0,,39,71,54.9,145,146,291,30,52,25,70,89,255
+Emily Saunders, Youngstown St. (Horizon),Senior,77,Forward,ncaaw.p.61037,Youngstown St.,32,707,165,285,57.9,0,0,,43,61,70.5,53,168,221,34,62,21,73,75,373
+Bella Smuda, Liberty (CUSA),Junior,78,Center,ncaaw.p.63953,Liberty,31,883,183,310,59,1,2,50,99,137,72.3,104,198,302,45,61,19,71,57,466
+Maryam Dauda, Arkansas (SEC),Sophomore,76,Forward,ncaaw.p.66633,South Carolina,32,913,112,250,44.8,28,90,31.1,59,77,76.6,75,125,200,40,64,23,73,94,311
+Natalia Ackerman, Cal Poly (Big West),Senior,73,Forward,ncaaw.p.64011,California,29,750,137,232,59.1,1,4,25,77,106,72.6,73,179,252,22,66,36,60,83,352
+Julia Ayrault, Michigan St. (Big Ten),Senior,74,Guard,ncaaw.p.60796,Michigan St.,30,750,175,340,51.5,37,105,35.2,76,101,75.2,34,182,216,69,41,37,64,85,463
+Elizabeth Kitley, Virginia Tech (ACC),Senior,78,Center,ncaaw.p.60505,Virginia Tech,29,995,278,500,55.6,2,5,40,103,133,77.4,97,233,330,52,62,17,60,50,661
+Lauren Betts, UCLA (Pac-12),Sophomore,79,Center,ncaaw.p.71129,UCLA,27,717,171,262,65.3,0,0,,56,90,62.2,98,144,242,23,58,13,55,47,398
+Rayah Marshall, Southern California (Pac-12),Junior,76,Forward,ncaaw.p.67284,USC,27,771,111,236,47,0,1,0,54,80,67.5,73,202,275,40,35,28,58,62,276
+Kate Bullman, Illinois St. (MVC),Senior,74,Forward,ncaaw.p.64434,Illinois St.,30,922,78,202,38.6,36,94,38.3,39,55,70.9,24,215,239,79,57,25,64,62,231
+Riley Stack, Coastal Carolina (Sun Belt),Freshman,76,Center,ncaaw.p.113046,Coastal Car.,33,573,44,119,37,8,35,22.9,9,12,75,12,83,95,31,32,12,66,56,105
+Essence Cody, Alabama (SEC),Freshman,76,Forward,ncaaw.p.112105,Alabama,32,712,91,205,44.4,5,22,22.7,65,108,60.2,84,117,201,9,58,22,63,116,252
+Tayra Eke, Eastern Mich. (MAC),Junior,75,Guard,ncaaw.p.68129,Washington,29,783,116,241,48.1,1,4,25,43,57,75.4,61,152,213,33,82,23,57,65,276
+Cordasia Harris, Alabama St. (SWAC),Senior,73,Forward,ncaaw.p.71381,Alabama St.,27,735,141,266,53,7,26,26.9,49,90,54.4,75,157,232,14,62,24,53,81,338
+Ashley Sofilkanich, Bucknell (Patriot),Freshman,75,Forward,ncaaw.p.113407,Bucknell,30,865,136,304,44.7,1,3,33.3,98,146,67.1,66,124,190,35,62,30,59,83,371
+Jada Tiggett, N.C. Central (MEAC),Freshman,74,Guard,ncaaw.p.113273,N.C. Central,23,415,56,131,42.7,1,10,10,16,34,47.1,40,63,103,11,41,20,46,46,129
+Millie Prior, Davidson (Atlantic 10),Junior,74,Forward,ncaaw.p.66731,Davidson,26,709,106,190,55.8,0,1,0,44,73,60.3,79,118,197,38,61,24,49,65,256
+Brooklyn Meyer, South Dakota St. (Summit League),Sophomore,74,Forward,ncaaw.p.71397,S. Dakota St.,30,826,203,344,59,0,0,,101,165,61.2,77,160,237,52,74,28,56,68,507
+Destiny Brown, Alcorn (SWAC),Junior,75,Center,ncaaw.p.71225,Alcorn St.,28,712,132,259,51,2,12,16.7,82,127,64.6,62,148,210,54,59,31,51,75,348
+Dalayah Daniels, Washington (Pac-12),Junior,76,Forward,ncaaw.p.65184,Washington,30,848,139,309,45,9,37,24.3,69,109,63.3,73,139,212,51,69,29,56,84,356
+Amaya Dowdy, LIU (NEC),Junior,72,Forward,ncaaw.p.67864,LIU Brooklyn,23,514,68,145,46.9,0,2,0,46,68,67.6,53,85,138,15,55,26,42,83,182
+Taylor Jones, Texas (Big 12),Senior,76,Forward,ncaaw.p.60854,Texas,28,587,137,222,61.7,0,1,0,87,130,66.9,63,130,193,7,42,28,53,78,361
+Macy McGlone, Eastern Ill. (OVC),Junior,74,Forward,ncaaw.p.64191,Eastern Illinois,33,1159,236,471,50.1,8,26,30.8,108,138,78.3,141,251,392,55,112,35,60,82,588
+Iycez Adams, Elon (CAA),Junior,71,Forward,ncaaw.p.67658,Elon,26,719,117,252,46.4,0,2,0,28,56,50,49,135,184,19,64,30,48,65,262
+Breya Cunningham, Arizona (Pac-12),Freshman,76,Forward,ncaaw.p.112003,Arizona,32,685,113,220,51.4,0,0,,24,46,52.2,56,97,153,19,44,32,58,121,250
+Christabel Ezumah, Campbell (CAA),Senior,74,Forward,ncaaw.p.64070,Alabama,29,690,142,253,56.1,0,1,0,71,131,54.2,74,160,234,38,90,14,48,72,355
+Anaya Brown, UT Martin (OVC),Sophomore,73,Forward,ncaaw.p.71399,Tenn-Martin,31,1065,169,349,48.4,12,41,29.3,118,144,81.9,87,188,275,33,86,49,56,84,468
+Amirah Abdur-Rahim, SMU (AAC),Senior,75,Forward,ncaaw.p.64877,Texas A&M,29,794,147,277,53.1,0,7,0,34,60,56.7,55,132,187,43,61,30,50,72,328
+Lauren Ware, Texas A&M (SEC),Senior,77,Forward,ncaaw.p.64117,Texas A&M,31,832,111,231,48.1,0,4,0,59,91,64.8,92,154,246,40,52,22,53,67,281
+Tatyana Wyche, East Carolina (AAC),Junior,74,Forward,ncaaw.p.66744,East Carolina,26,622,62,126,49.2,0,2,0,47,62,75.8,73,91,164,32,44,25,38,74,171
+Emma Trawally Porta, Detroit Mercy (Horizon),Junior,71,Forward,ncaaw.p.67843,San Francisco,33,908,118,228,51.8,16,46,34.8,69,90,76.7,58,190,248,40,69,24,56,71,321
+Jessika Carter, Mississippi St. (SEC),Senior,77,Center,ncaaw.p.57391,Mississippi St.,29,922,183,351,52.1,0,2,0,61,95,64.2,95,198,293,31,68,21,50,73,427
+Rochelle Norris, Central Mich. (MAC),Senior,77,Center,ncaaw.p.56812,Cent. Michigan,28,596,101,198,51,0,0,,33,61,54.1,60,152,212,18,54,14,47,61,235
+Olivia Olsen, Providence (Big East),Junior,75,Forward,ncaaw.p.67497,Providence,32,906,169,321,52.6,3,10,30,96,147,65.3,87,186,273,36,66,35,53,69,437
+Jaida Belton, Texas Southern (SWAC),Sophomore,76,Forward,ncaaw.p.71635,Texas Southern,29,577,95,197,48.2,0,2,0,48,85,56.5,76,126,202,15,85,26,48,87,238
+Trinity Williams, NJIT (America East),Junior,73,Forward,ncaaw.p.66919,NJIT,29,717,104,214,48.6,1,15,6.7,51,90,56.7,66,120,186,26,61,7,48,72,260
+JuJu Watkins, Southern California (Pac-12),Freshman,74,Guard,ncaaw.p.112021,USC,29,989,270,656,41.2,58,176,33,203,240,84.6,52,161,213,96,120,72,45,78,801
+Allyson Fertig, Wyoming (Mountain West),Junior,76,Center,ncaaw.p.67230,Wyoming,29,750,163,273,59.7,0,5,0,68,89,76.4,76,160,236,31,50,21,38,41,394
+Rita Igbokwe, Ole Miss (SEC),Senior,76,Forward,ncaaw.p.60476,Mississippi,31,617,62,126,49.2,0,0,,25,64,39.1,81,95,176,11,45,25,54,65,149
+Kyndall Golden, Kennesaw St. (ASUN),Senior,75,Forward,ncaaw.p.61073,Kennesaw St.,30,531,21,57,36.8,0,0,,11,24,45.8,49,62,111,18,35,14,49,72,53
+Layne Ferrell, Wright St. (Horizon),Senior,74,Guard,ncaaw.p.61483,Wright St.,31,976,119,263,45.2,46,110,41.8,42,48,87.5,32,124,156,60,44,46,49,65,326
+Tamari Key, Tennessee (SEC),Senior,78,Center,ncaaw.p.61031,Tennessee,30,464,62,112,55.4,0,2,0,18,37,48.6,43,69,112,14,33,10,49,65,142
+Anajah Brown, Siena (MAAC),Junior,73,Forward,ncaaw.p.67117,Siena,23,577,103,201,51.2,0,3,0,46,73,63,78,92,170,29,56,30,37,81,252
+Ryley Goebel, UNI (MVC),Sophomore,71,Forward,ncaaw.p.71274,Northern Iowa,24,498,61,108,56.5,0,2,0,5,10,50,52,45,97,26,24,37,37,69,127
+Deja Evans, UAlbany (America East),Freshman,74,Forward,ncaaw.p.112347,Drexel,27,621,79,205,38.5,0,2,0,69,99,69.7,73,121,194,32,56,19,44,43,227
+Alex Covill, Washington St. (Pac-12),Freshman,78,Center,ncaaw.p.112505,Washington St.,32,327,37,84,44,0,1,0,20,25,80,15,58,73,9,33,5,51,49,94
+Mackenzie Holmes, Indiana (Big Ten),Senior,75,Forward,ncaaw.p.60718,Indiana,29,814,238,357,66.7,2,8,25,101,140,72.1,61,139,200,41,74,26,41,67,579
+Kierra Wheeler, Norfolk St. (MEAC),Junior,73,Forward,ncaaw.p.71804,Norfolk St.,28,850,191,379,50.4,2,3,66.7,105,144,72.9,111,163,274,45,61,45,36,81,489
+Kennedy Basham, Oregon (Pac-12),Sophomore,79,Forward,ncaaw.p.70937,Arizona St.,31,582,54,135,40,0,0,,30,51,58.8,11,97,108,27,32,8,48,51,138
+Maria Gakdeng, North Carolina (ACC),Junior,75,Center,ncaaw.p.66646,N. Carolina,31,736,117,187,62.6,0,0,,43,70,61.4,75,105,180,17,49,16,44,83,277
+Amiya Joyner, East Carolina (AAC),Sophomore,74,Forward,ncaaw.p.70581,East Carolina,27,789,135,292,46.2,0,7,0,77,112,68.8,106,155,261,61,82,36,36,68,347
+Hadley Periman, Tulsa (AAC),Sophomore,74,Guard,ncaaw.p.71191,Tulsa,31,759,23,85,27.1,9,30,30,33,59,55.9,64,153,217,44,42,15,47,71,88
+Temira Poindexter, Tulsa (AAC),Junior,73,Forward,ncaaw.p.67408,Kansas St.,31,1060,231,543,42.5,77,239,32.2,105,145,72.4,23,144,167,59,105,26,45,56,644
+Kate Samson, Navy (Patriot),Sophomore,76,Center,ncaaw.p.71623,Navy,27,429,59,127,46.5,0,0,,28,46,60.9,40,73,113,15,39,14,41,62,146
+Adela Valkova, UT Arlington (WAC),Junior,75,Forward,ncaaw.p.71576,UT Arlington,30,738,116,211,55,4,10,40,44,63,69.8,50,105,155,30,50,18,46,82,280
+Sydney Mech, Colorado St. (Mountain West),Senior,74,Forward,ncaaw.p.57463,Colorado St.,29,857,98,184,53.3,30,73,41.1,11,15,73.3,11,73,84,27,24,21,44,61,237
+Bree Stephens, Central Ark. (ASUN),Junior,72,Forward,ncaaw.p.112610,Central Arkansas,28,738,69,166,41.6,22,66,33.3,10,24,41.7,29,130,159,53,42,43,42,51,170
+Brenna McDonald, Yale (Ivy League),Senior,75,Forward,ncaaw.p.64920,Washington,27,796,124,232,53.4,0,4,0,41,58,70.7,82,103,185,24,45,24,40,66,289
+Liatu King, Pittsburgh (ACC),Senior,72,Forward,ncaaw.p.63989,Notre Dame,32,1134,246,470,52.3,0,0,,106,149,71.1,108,221,329,57,108,59,47,90,598
+Charlotte Kohl, New Mexico (Mountain West),Senior,77,Center,ncaaw.p.64249,New Mexico,31,696,72,146,49.3,2,11,18.2,44,68,64.7,77,122,199,15,37,17,46,74,190
+Ashlee Lewis, Cal St. Fullerton (Big West),Senior,73,Center,ncaaw.p.64045,CSU Fullerton,29,778,125,242,51.7,0,0,,49,69,71,60,181,241,24,79,23,44,78,299
+Jillian Archer, St. John's (NY) (Big East),Senior,74,Forward,ncaaw.p.57323,St. John's,31,964,134,229,58.5,0,0,,83,112,74.1,74,165,239,24,63,27,47,89,351
+Sitori Tanin, Loyola Chicago (Atlantic 10),Senior,74,Forward,ncaaw.p.64273,Loyola Chicago,31,842,114,266,42.9,7,18,38.9,69,102,67.6,65,129,194,63,91,33,45,77,304
+Raanee Smith, Sam Houston (CUSA),Senior,74,Forward,ncaaw.p.60838,Sam Houston State,28,809,106,236,44.9,0,1,0,54,106,50.9,127,128,255,27,70,34,41,89,266
+Kylee Watson, Notre Dame (ACC),Senior,76,Forward,ncaaw.p.65052,Notre Dame,31,801,76,145,52.4,0,0,,40,71,56.3,54,100,154,40,70,25,44,83,192
+Mya Moore, Seattle U (WAC),Sophomore,72,Forward,ncaaw.p.71158,Cleveland St.,29,721,137,287,47.7,0,7,0,93,141,66,75,145,220,42,97,45,41,99,367
+Elyssa Coleman, UTSA (AAC),Junior,75,Forward,ncaaw.p.64932,UTSA,28,746,133,299,44.5,4,13,30.8,38,61,62.3,73,146,219,21,57,20,43,87,308
+Amhyia Moreland, San Jose St. (Mountain West),Junior,73,Forward,ncaaw.p.67036,New Mexico,29,629,147,266,55.3,3,7,42.9,48,77,62.3,84,88,172,24,63,24,41,100,345
+Caitlin Staley, Western Ky. (CUSA),Freshman,75,Forward,ncaaw.p.112157,W. Kentucky,29,397,43,103,41.7,0,0,,10,29,34.5,26,47,73,9,43,9,40,72,96
+Meghan Andersen, Fairfield (MAAC),Freshman,73,Forward,ncaaw.p.112876,Fairfield,29,808,178,337,52.8,58,156,37.2,39,45,86.7,42,108,150,45,47,41,40,58,453
+Taisha Exanor, Monmouth (CAA),Senior,72,Forward,ncaaw.p.63994,Monmouth,29,670,81,176,46,11,46,23.9,31,43,72.1,53,119,172,37,69,35,39,70,204
+Jordan Obi, Penn (Ivy League),Senior,73,Forward,ncaaw.p.65141,Kentucky,27,920,144,328,43.9,31,84,36.9,79,96,82.3,41,170,211,63,79,25,36,56,398
+Camilla Emsbo, Duke (ACC),Senior,77,Forward,ncaaw.p.57085,Duke,31,481,54,113,47.8,0,2,0,33,41,80.5,36,58,94,21,39,15,42,45,141
+Nabaweeyah McGill, A&M-Corpus Christi (Southland),Senior,74,Forward,ncaaw.p.64908,Texas A&M-Corpus Christi,29,491,79,202,39.1,6,31,19.4,46,61,75.4,58,83,141,25,51,13,42,62,210
+Sacha Washington, Vanderbilt (SEC),Junior,74,Forward,ncaaw.p.67243,Vanderbilt,31,901,151,295,51.2,0,0,,72,113,63.7,109,135,244,43,83,49,44,82,374
+Rose Nelson, Fordham (Atlantic 10),Sophomore,73,Forward,ncaaw.p.70606,Fordham,27,656,47,103,45.6,1,3,33.3,4,21,19,31,63,94,26,42,20,36,50,99
+Klarke Sconiers, Delaware (CAA),Senior,74,Center,ncaaw.p.60817,Delaware,30,614,101,205,49.3,0,2,0,66,86,76.7,52,79,131,17,48,13,40,72,268
+Trista Hull, Boise St. (Mountain West),Junior,74,Forward,ncaaw.p.66638,Portland,28,480,40,104,38.5,1,5,20,34,52,65.4,50,94,144,32,31,7,36,52,115
+Alyssa Latham, Syracuse (ACC),Freshman,74,Forward,ncaaw.p.112265,Tennessee,30,791,108,232,46.6,6,19,31.6,38,60,63.3,90,123,213,19,56,33,40,97,260
+Brianna Scott, Georgetown (Big East),Junior,76,Forward,ncaaw.p.66753,Georgetown,28,599,91,179,50.8,19,60,31.7,45,57,78.9,53,115,168,28,30,13,38,65,246
+Emma Calvert, BYU (Big 12),Junior,76,Forward,ncaaw.p.67581,BYU,32,668,90,203,44.3,21,84,25,33,52,63.5,21,106,127,33,57,18,40,96,234
+Kennedy Brown, Duke (ACC),Senior,78,Forward,ncaaw.p.60853,Duke,31,749,98,204,48,6,25,24,53,61,86.9,56,114,170,46,59,24,43,88,255
+Adreanna Waddle, Prairie View (SWAC),Junior,74,Forward,ncaaw.p.113249,Prairie View A&M,23,367,67,113,59.3,0,0,,15,27,55.6,47,58,105,1,25,10,31,56,149
+Leilani Kapinus, Penn St. (Big Ten),Junior,70,Guard,ncaaw.p.65037,Vanderbilt,31,794,140,236,59.3,23,56,41.1,49,82,59.8,37,160,197,61,80,64,35,96,352
+Maori Davenport, Ark.-Pine Bluff (SWAC),Senior,77,Center,ncaaw.p.60958,Alabama A&M,27,446,51,97,52.6,0,2,0,32,55,58.2,50,106,156,19,39,30,36,58,134
+Maya Peat, Ark.-Pine Bluff (SWAC),Senior,78,Center,ncaaw.p.65218,Texas Tech,31,669,124,244,50.8,3,9,33.3,83,135,61.5,62,134,196,19,59,18,41,92,334
+Alasia Smith, Memphis (AAC),Junior,70,Guard,ncaaw.p.64816,Memphis,29,826,112,256,43.8,14,56,25,51,92,55.4,114,157,271,49,67,63,37,100,289
+Latasha Lattimore, Miami (FL) (ACC),Junior,76,Forward,ncaaw.p.67686,Virginia,27,405,60,132,45.5,5,17,29.4,27,40,67.5,36,48,84,13,30,9,34,29,152
+Raegan Beers, Oregon St. (Pac-12),Sophomore,74,Forward,ncaaw.p.71014,Oklahoma,27,757,194,294,66,0,2,0,90,139,64.7,90,192,282,48,60,33,33,63,478
+Amberly Brown, Mississippi Val. (SWAC),Junior,73,Forward,ncaaw.p.113313,Miss. Valley St.,31,590,70,209,33.5,0,11,0,33,52,63.5,46,70,116,20,45,34,39,74,173
+River Baldwin, NC State (ACC),Senior,77,Center,ncaaw.p.60343,N.C. State,29,797,122,223,54.7,0,0,,55,69,79.7,69,134,203,22,49,12,37,67,299
+Sophie Glancey, Northern Ariz. (Big Sky),Sophomore,74,Forward,ncaaw.p.70913,Northern Arizona,31,799,188,356,52.8,12,24,50,83,115,72.2,87,135,222,24,45,19,35,54,471
+Mariona Planes Fortuny, Bryant (America East),Senior,75,Center,ncaaw.p.64634,Geo. Wash.,29,950,170,349,48.7,16,54,29.6,117,153,76.5,58,130,188,80,86,27,36,85,473
+Olivia Pollerd, Santa Clara (WCC),Junior,74,Forward,ncaaw.p.67373,Santa Clara,31,913,184,394,46.7,88,198,44.4,14,19,73.7,29,113,142,54,43,25,39,67,470
+Laila Lawrence, Coppin St. (MEAC),Junior,73,Forward,ncaaw.p.71135,Coppin St.,28,870,150,322,46.6,7,25,28,88,164,53.7,127,170,297,27,85,51,34,80,395
+Zyheima Swint, Hofstra (CAA),Senior,75,Center,ncaaw.p.64103,Hofstra,27,644,92,187,49.2,0,0,,20,40,50,76,132,208,25,65,28,30,77,204
+Morgan Lee, Marist (MAAC),Sophomore,77,Center,ncaaw.p.71420,Marist,30,569,73,173,42.2,17,49,34.7,19,28,67.9,29,96,125,22,55,8,36,42,182
+Phillipina Kyei, Oregon (Pac-12),Junior,80,Center,ncaaw.p.67458,Oregon,32,943,161,308,52.3,0,0,,82,130,63.1,136,245,381,60,84,21,39,59,404
+Rachel Loobie, Wright St. (Horizon),Senior,73,Forward,ncaaw.p.64149,Long Beach St.,31,666,112,227,49.3,7,36,19.4,50,70,71.4,59,156,215,44,41,29,36,84,281
+Justice Ross, New Orleans (Southland),Senior,72,Guard,ncaaw.p.60816,Lamar,27,722,56,187,29.9,8,38,21.1,55,85,64.7,29,68,97,55,56,25,34,31,175
+Jasmin Dixon, Northwestern St. (Southland),Junior,75,Forward,ncaaw.p.65091,N'western St.,28,565,41,71,57.7,0,0,,22,42,52.4,47,65,112,8,20,8,34,53,104
+Marie Kiefer, Ball St. (MAC),Junior,74,Forward,ncaaw.p.66591,Ball St.,31,713,80,185,43.2,17,69,24.6,48,65,73.8,44,115,159,29,52,37,31,85,225
+Halle Smith, SIUE (OVC),Sophomore,72,Forward,ncaaw.p.67382,SIU Edwardsville,31,601,84,204,41.2,1,8,12.5,78,97,80.4,63,70,133,13,58,16,37,102,247
+Shamarre Hale, Austin Peay (ASUN),Senior,73,Center,ncaaw.p.57931,Austin Peay,31,667,155,253,61.3,0,0,,96,135,71.1,81,148,229,11,42,19,36,78,406
+Emma Ronsiek, Creighton (Big East),Senior,73,Forward,ncaaw.p.64712,Colorado St.,29,985,172,362,47.5,35,104,33.7,116,131,88.5,40,124,164,81,64,30,38,79,495
+Anaja Hall, Alabama St. (SWAC),Freshman,77,Center,ncaaw.p.112537,Alabama St.,27,371,45,95,47.4,0,3,0,12,18,66.7,14,45,59,3,34,4,32,41,102
+Clara Strack, Virginia Tech (ACC),Freshman,77,Center,ncaaw.p.112258,Kentucky,31,401,49,95,51.6,1,2,50,15,27,55.6,50,69,119,20,31,3,33,43,114
+Chaniya Clark, N.C. A&T (CAA),Sophomore,76,Center,ncaaw.p.66981,N.C. A&T,29,776,113,272,41.5,13,59,22,52,75,69.3,67,158,225,29,47,16,35,77,291
+Jadyn Donovan, Duke (ACC),Freshman,72,Guard,ncaaw.p.112199,Duke,31,698,95,171,55.6,0,0,,13,33,39.4,58,116,174,53,79,44,34,79,203
+Melyia Grayson, Southern Miss. (Sun Belt),Junior,75,Center,ncaaw.p.64279,Southern Miss,31,808,154,291,52.9,0,0,,71,96,74,102,146,248,27,88,20,32,84,379
+Kendal Cheesman, Belmont (MVC),Junior,74,Forward,ncaaw.p.67237,Belmont,31,834,135,285,47.4,71,170,41.8,27,32,84.4,40,162,202,33,31,13,37,65,368
+Faith Stinson, IUPUI (Horizon),Sophomore,74,Forward,ncaaw.p.71415,IU Indy,30,682,68,178,38.2,20,81,24.7,23,49,46.9,24,125,149,20,28,12,35,48,179
+Amaria McNear, High Point (Big South),Senior,75,Center,ncaaw.p.61303,High Point,30,442,27,82,32.9,5,27,18.5,31,39,79.5,32,53,85,26,34,8,35,84,90
+Liza Karlen, Marquette (Big East),Senior,74,Forward,ncaaw.p.64519,Notre Dame,30,920,227,442,51.4,24,60,40,56,69,81.2,71,159,230,60,75,25,31,63,534
+Tommisha Lampkin, North Texas (AAC),Senior,74,Forward,ncaaw.p.64918,North Texas,30,851,188,297,63.3,0,2,0,91,164,55.5,98,133,231,26,72,28,35,85,467
+Ava Learn, Murray St. (MVC),Junior,73,Forward,ncaaw.p.67044,Murray St.,29,578,127,237,53.6,1,12,8.3,60,76,78.9,45,113,158,15,54,21,28,72,315
+Imani Perez, Hawaii (Big West),Sophomore,76,Forward,ncaaw.p.70708,Hawaii,24,700,88,151,58.3,18,43,41.9,36,54,66.7,42,94,136,25,45,16,29,43,230
+Carmen Gfeller, Montana (Big Sky),Senior,73,Forward,ncaaw.p.56840,Montana,29,852,151,312,48.4,25,77,32.5,63,77,81.8,62,117,179,40,68,21,35,69,390
+Mya Kone, FIU (CUSA),Sophomore,74,Forward,ncaaw.p.70755,Florida Intl.,30,715,114,291,39.2,47,152,30.9,65,85,76.5,65,172,237,29,59,29,33,82,340
+Aaronette Vonleh, Colorado (Pac-12),Junior,75,Forward,ncaaw.p.66627,Baylor,31,755,184,328,56.1,1,8,12.5,67,104,64.4,51,101,152,44,51,25,34,79,436
+Maddy Westbeld, Notre Dame (ACC),Senior,75,Forward,ncaaw.p.64884,Notre Dame,30,984,171,371,46.1,33,90,36.7,50,65,76.9,68,204,272,51,66,45,33,87,425
+Meghan Downing, ETSU (SoCon),Sophomore,74,Forward,ncaaw.p.70590,E. Tennessee St.,29,583,53,102,52,0,0,,38,57,66.7,50,78,128,10,34,15,33,70,144
+Charlotte O'Keefe, UTRGV (WAC),Sophomore,75,Forward,ncaaw.p.71406,UT Rio Grande Valley,29,827,93,217,42.9,13,47,27.7,33,49,67.3,79,125,204,38,50,26,33,90,232
+Hannah Ronsiek, Colorado St. (Mountain West),Sophomore,71,Guard,ncaaw.p.70545,Colorado St.,27,829,82,191,42.9,46,123,37.4,10,12,83.3,3,158,161,39,33,30,31,61,220
+Aneesah Morrow, LSU (SEC),Sophomore,73,Forward,ncaaw.p.67831,LSU,32,1023,210,447,47,11,53,20.8,93,113,82.3,109,212,321,57,58,83,41,73,524
+Eden Johnson, Ga. Southern (Sun Belt),Senior,74,Forward,ncaaw.p.63908,Georgia St.,30,744,72,213,33.8,23,86,26.7,20,26,76.9,43,102,145,31,39,33,34,48,187
+Meghan O'Brien, Lehigh (Patriot),Junior,73,Forward,ncaaw.p.66792,Lehigh,29,853,109,232,47,20,69,29,29,39,74.4,43,127,170,59,48,32,34,47,267
+Saylor Poffenbarger, Arkansas (SEC),Sophomore,74,Guard,ncaaw.p.66487,Maryland,30,948,108,304,35.5,54,164,32.9,35,52,67.3,54,283,337,47,54,41,34,63,305
+Dani Bartsch, Montana (Big Sky),Junior,74,Forward,ncaaw.p.66890,Montana,29,873,91,192,47.4,49,116,42.2,21,27,77.8,81,215,296,74,48,39,28,62,252
+Tori Nelson, South Dakota St. (Summit League),Senior,73,Forward,ncaaw.p.60843,S. Dakota St.,30,867,96,221,43.4,8,34,23.5,37,41,90.2,45,121,166,83,62,29,31,58,237
+Ta'Mia Scott, Middle Tenn. (CUSA),Sophomore,72,Guard,ncaaw.p.70831,Middle Tenn. St.,30,1047,135,284,47.5,40,101,39.6,64,80,80,31,135,166,46,58,53,31,53,374
+Stina Almqvist, Penn (Ivy League),Junior,72,Guard,ncaaw.p.67282,Pennsylvania,27,862,155,352,44,20,82,24.4,88,110,80,46,126,172,56,65,26,30,61,418
+Alissa Dins, Western Ill. (OVC),Senior,73,Center,ncaaw.p.61325,Western Ill.,28,721,40,93,43,2,6,33.3,17,29,58.6,42,112,154,81,54,25,31,81,99
+Jordyn Merritt, Texas Tech (Big 12),Senior,75,Forward,ncaaw.p.64744,Texas Tech,28,658,93,234,39.7,13,55,23.6,29,42,69,53,104,157,41,60,38,31,59,228
+Amber Tretter, Miami (OH) (MAC),Freshman,73,Forward,ncaaw.p.112713,Miami (OH),29,865,107,272,39.3,25,93,26.9,61,80,76.3,69,153,222,46,56,36,32,100,300
+Makayla Minett, Denver (Summit League),Senior,75,Forward,ncaaw.p.61107,Denver,30,685,97,177,54.8,0,0,,38,77,49.4,75,138,213,13,33,15,33,80,232
+Zahirah Walton, George Mason (Atlantic 10),Sophomore,71,Forward,ncaaw.p.70670,George Mason,29,634,106,249,42.6,7,33,21.2,97,127,76.4,77,89,166,14,36,40,31,67,316
+Rayne Tucker, Temple (AAC),Senior,73,Forward,ncaaw.p.60531,UAB,30,889,96,239,40.2,3,18,16.7,44,64,68.8,112,133,245,41,48,29,32,85,239
+Mesa Byom, South Dakota St. (Summit League),Junior,74,Forward,ncaaw.p.64053,S. Dakota St.,30,596,80,171,46.8,4,17,23.5,63,77,81.8,59,133,192,28,48,16,32,69,227
+Khari Clark, Stony Brook (CAA),Senior,74,Center,ncaaw.p.61390,Stony Brook,28,712,173,280,61.8,8,19,42.1,62,89,69.7,60,138,198,27,65,38,31,80,416
+Agnes Emma-Nnopu, TCU (Big 12),Senior,71,Guard,ncaaw.p.64477,TCU,31,978,120,282,42.6,55,153,35.9,36,50,72,83,144,227,49,49,36,36,93,331
+Precious Johnson, Duquesne (Atlantic 10),Senior,76,Center,ncaaw.p.61337,Duquesne,32,500,92,164,56.1,5,19,26.3,38,48,79.2,57,81,138,20,61,17,35,82,227
+Ugonne Onyiah, California (Pac-12),Senior,75,Forward,ncaaw.p.65183,California,32,603,101,179,56.4,0,0,,47,81,58,92,106,198,17,53,36,34,116,249
+Bella Murekatete, Washington St. (Pac-12),Senior,75,Center,ncaaw.p.60927,Washington St.,32,786,161,308,52.3,0,0,,71,98,72.4,65,166,231,62,83,52,36,95,393
+Ifunanya Nwachukwu, Kansas City (Summit League),Senior,74,Forward,ncaaw.p.66881,Mo. Kansas City,24,303,49,99,49.5,2,3,66.7,16,23,69.6,43,82,125,8,23,10,26,52,116
+Tierra Simon, Saint Louis (Atlantic 10),Junior,73,Forward,ncaaw.p.100558,Saint Louis,34,689,69,141,48.9,7,18,38.9,33,42,78.6,71,147,218,28,43,17,35,73,178
+Layla Gold, Valparaiso (MVC),Freshman,71,Guard,ncaaw.p.112923,Valparaiso,27,577,32,90,35.6,13,43,30.2,10,18,55.6,16,46,62,14,24,21,29,26,87
+Deasia Merrill, Georgia St. (Sun Belt),Senior,73,Forward,ncaaw.p.60992,TCU,28,547,86,172,50,1,5,20,52,76,68.4,65,118,183,24,55,19,30,64,225
+Tessa Chaney, Utah Valley (WAC),Sophomore,75,Center,ncaaw.p.71441,Utah Valley,29,546,73,137,53.3,0,2,0,46,77,59.7,60,119,179,17,52,13,31,90,192
+Rayne Durant, UMass Lowell (America East),Freshman,73,Forward,ncaaw.p.112395,Mass-Lowell,29,670,82,210,39,0,5,0,28,41,68.3,34,109,143,19,44,22,31,82,192
+Zoe McCrary, Col. of Charleston (CAA),Senior,74,Forward,ncaaw.p.64176,Appalachian St.,27,668,50,104,48.1,0,0,,29,52,55.8,71,83,154,22,25,18,26,50,129
+Anna Foley, Quinnipiac (MAAC),Freshman,75,Center,ncaaw.p.112914,Quinnipiac,29,807,156,352,44.3,7,43,16.3,75,93,80.6,59,151,210,90,80,31,30,106,394
+Ashlee Locke, Mercer (SoCon),Junior,75,Forward,ncaaw.p.67550,Mercer,31,510,54,146,37,0,0,,25,30,83.3,44,76,120,32,40,22,33,74,133
+Anna Walker, Tennessee Tech (OVC),Senior,73,Forward,ncaaw.p.64286,Tennessee Tech,31,694,107,249,43,33,103,32,38,40,95,46,79,125,38,51,32,33,74,285
+Malea Williams, Cincinnati (Big 12),Senior,76,Forward,ncaaw.p.64251,Florida St.,31,723,102,245,41.6,35,95,36.8,28,43,65.1,56,131,187,41,44,30,34,67,267
+Kyra Wood, Syracuse (ACC),Junior,75,Forward,ncaaw.p.67091,Syracuse,30,609,78,146,53.4,0,0,,33,50,66,92,108,200,15,36,22,34,56,189
+Kiersten Johnson, Oklahoma (Big 12),Sophomore,76,Forward,ncaaw.p.70924,Oklahoma,30,340,69,154,44.8,1,8,12.5,34,50,68,28,72,100,29,37,8,34,45,173
+Tara Wallack, Washington St. (Pac-12),Junior,74,Guard,ncaaw.p.67370,Washington St.,32,982,119,256,46.5,31,88,35.2,68,83,81.9,41,101,142,78,38,26,35,45,337
+Charlise Dunn, Davidson (Atlantic 10),Sophomore,74,Guard,ncaaw.p.71455,Davidson,23,689,101,242,41.7,38,114,33.3,53,62,85.5,43,97,140,38,39,30,24,40,293
+Zoe Nelson, SFA (WAC),Junior,73,Guard,ncaaw.p.67551,UT Arlington,26,639,89,226,39.4,9,52,17.3,17,23,73.9,37,153,190,43,41,19,27,40,204
+Ashley Banks, Southern Utah (WAC),Sophomore,77,Center,ncaaw.p.71108,Southern Utah,26,549,57,117,48.7,3,8,37.5,29,45,64.4,56,77,133,16,36,5,25,66,146
+Laura Bello, Idaho St. (Big Sky),Junior,75,Forward,ncaaw.p.71248,UT Arlington,30,760,101,253,39.9,0,0,,48,70,68.6,66,126,192,14,57,22,31,77,250
+Paige Mott, Northwestern (Big Ten),Senior,73,Forward,ncaaw.p.64894,Geo. Wash.,30,782,95,205,46.3,0,6,0,49,68,72.1,56,91,147,56,66,9,31,89,239
+Megan Norris, UC Davis (Big West),Junior,75,Center,ncaaw.p.67401,UC Davis,28,729,115,233,49.4,23,75,30.7,42,59,71.2,45,164,209,47,60,17,28,66,295
+Sherese Pittman, Stony Brook (CAA),Junior,74,Forward,ncaaw.p.66838,Tulane,27,768,126,263,47.9,12,46,26.1,102,129,79.1,67,131,198,59,51,23,30,47,366
+Khalis Cain, UNC Greensboro (SoCon),Senior,75,Forward,ncaaw.p.64664,N.C. Greensboro,31,714,72,134,53.7,0,0,,39,66,59.1,116,113,229,9,25,25,30,64,183
+Carmyn Harrison, Belmont (MVC),Junior,74,Forward,ncaaw.p.66775,Belmont,31,465,39,83,47,0,1,0,24,35,68.6,37,61,98,39,38,28,32,74,102
+Natalija Marshall, Notre Dame (ACC),Senior,77,Forward,ncaaw.p.64880,Miami (FL),30,558,66,125,52.8,0,1,0,22,32,68.8,57,48,105,30,42,11,28,69,154
+Hannah Noveroske, Toledo (MAC),Senior,77,Center,ncaaw.p.60717,Toledo,29,303,82,141,58.2,0,0,,34,64,53.1,60,55,115,7,48,12,32,60,198
+Skylar Forbes, Marquette (Big East),Freshman,75,Forward,ncaaw.p.112042,Marquette,30,538,57,113,50.4,3,18,16.7,33,49,67.3,36,80,116,36,36,14,32,65,150
+Rylan Moffitt, App State (Sun Belt),Sophomore,72,Forward,ncaaw.p.112843,Appalachian St.,32,839,89,184,48.4,0,4,0,34,56,60.7,97,159,256,37,61,28,32,102,212
+Yaubryon Chambers, Tennessee Tech (OVC),Senior,73,Forward,ncaaw.p.61069,Tennessee Tech,31,415,74,136,54.4,0,0,,32,52,61.5,40,52,92,21,49,36,31,74,180
+Mariona Cos-Morales, Rider (MAAC),Junior,73,Guard,ncaaw.p.112924,Rider,29,564,52,114,45.6,0,2,0,27,43,62.8,26,67,93,32,47,23,28,62,131
+Sierra McCullough, Eastern Ky. (ASUN),Senior,74,Forward,ncaaw.p.61244,E. Kentucky,29,514,59,135,43.7,0,0,,49,98,50,90,124,214,15,32,17,30,70,167
+Mackenzie Wurm, Louisiana Tech (CUSA),Junior,76,Forward,ncaaw.p.66844,Louisiana Tech,28,261,32,79,40.5,0,2,0,9,18,50,16,46,62,11,22,8,25,32,73
+Jo Oly, Houston Christian (Southland),Sophomore,72,Forward,ncaaw.p.71646,Houston Christian,29,775,45,138,32.6,2,20,10,15,30,50,31,108,139,45,59,28,29,57,107
+Tiarra Brown, Grand Canyon (WAC),Senior,69,Guard,ncaaw.p.65140,Grand Canyon,27,773,113,218,51.8,4,16,25,45,73,61.6,39,96,135,39,57,39,25,64,275
+India Howard, North Ala. (ASUN),Sophomore,72,Forward,ncaaw.p.112629,North Alabama,27,428,53,87,60.9,0,0,,15,35,42.9,41,79,120,8,28,13,27,55,121
+Madilyn Dogs, NJIT (America East),Freshman,72,Guard,ncaaw.p.113132,NJIT,26,529,38,93,40.9,0,12,0,20,35,57.1,33,96,129,23,36,32,26,43,96
+Lainey Allen, UMES (MEAC),Sophomore,74,Forward,ncaaw.p.70811,MD Eastern Shore,24,454,51,120,42.5,0,2,0,15,28,53.6,39,102,141,5,37,15,23,58,117
+Kayla Clark, Bethune-Cookman (SWAC),Junior,75,Center,ncaaw.p.68148,Bethune-Cookman,24,589,92,196,46.9,0,0,,50,95,52.6,102,113,215,34,53,32,24,77,234
+Aaliyah Edwards, UConn (Big East),Senior,75,Forward,ncaaw.p.64072,Connecticut,32,959,228,384,59.4,0,3,0,112,149,75.2,83,216,299,66,75,53,28,78,568
+Maggie Doogan, Richmond (Atlantic 10),Sophomore,74,Forward,ncaaw.p.71293,Richmond,33,1006,186,386,48.2,51,149,34.2,82,94,87.2,21,166,187,78,97,23,33,78,505
+Katlyn Manuel, ULM (Sun Belt),Junior,73,Forward,ncaaw.p.66853,LA Monroe,32,744,135,257,52.5,0,0,,52,71,73.2,79,99,178,12,36,16,30,52,322
+Kelsey Rees, Oregon St. (Pac-12),Sophomore,77,Forward,ncaaw.p.64391,Oregon St.,31,655,61,134,45.5,22,59,37.3,21,33,63.6,37,101,138,24,35,11,32,59,165
+Jordana Reisma, Cleveland St. (Horizon),Sophomore,75,Forward,ncaaw.p.70511,Cleveland St.,32,774,128,227,56.4,0,0,,58,98,59.2,49,142,191,17,53,16,32,102,314
+Kim Villalobos, San Diego St. (Mountain West),Senior,72,Forward,ncaaw.p.64966,SDSU,31,819,126,289,43.6,0,3,0,87,121,71.9,46,142,188,69,68,56,29,81,339
+Yvonne Ejim, Gonzaga (WCC),Senior,73,Forward,ncaaw.p.65222,Gonzaga,29,779,248,395,62.8,1,5,20,82,100,82,90,150,240,63,52,44,29,71,579
+Elle Evans, North Dakota St. (Summit League),Sophomore,75,Guard,ncaaw.p.71534,Kansas,30,932,161,339,47.5,69,149,46.3,79,84,94,38,108,146,66,69,30,29,53,470
+Angel Reese, LSU (SEC),Senior,75,Forward,ncaaw.p.64598,LSU,28,861,184,370,49.7,1,8,12.5,167,227,73.6,156,211,367,66,68,51,25,73,536
+Matehya Bryant, UC Riverside (Big West),Senior,72,Forward,ncaaw.p.67696,UC Riverside,30,899,152,350,43.4,0,8,0,56,81,69.1,71,174,245,56,80,60,28,90,360
+Cheyanne Daniels, Southeastern La. (Southland),Junior,75,Forward,ncaaw.p.102651,SE Louisiana,29,718,101,192,52.6,0,1,0,55,77,71.4,50,98,148,18,67,13,29,79,257
+Grace Hall, Penn St. (Big Ten),Freshman,73,Forward,ncaaw.p.100086,Penn St.,27,223,29,60,48.3,1,13,7.7,5,9,55.6,16,31,47,7,21,15,25,44,64
+Harsimran Kaur, San Diego (WCC),Junior,76,Forward,ncaaw.p.67485,Rhode Island,31,694,110,225,48.9,0,4,0,48,62,77.4,46,110,156,28,57,16,30,85,268
+Nile Miller, Howard (MEAC),Sophomore,73,Forward,ncaaw.p.70725,Howard,28,654,77,196,39.3,2,5,40,36,59,61,79,111,190,15,36,60,27,92,192
+Katie Novik, Morehead St. (OVC),Freshman,69,Guard,ncaaw.p.112990,Morehead St.,30,788,117,264,44.3,35,93,37.6,64,108,59.3,30,98,128,107,100,50,29,91,333
+Tracey Hueston, Charlotte (AAC),Senior,74,Forward,ncaaw.p.64003,Charlotte,28,610,122,273,44.7,10,26,38.5,77,110,70,42,85,127,23,92,25,28,94,331
+Anna Olson, Vermont (America East),Senior,73,Forward,ncaaw.p.64723,Vermont,31,955,143,249,57.4,2,5,40,69,96,71.9,63,122,185,46,48,22,29,59,357
+Jasmine Kondrakiewicz, Green Bay (Horizon),Junior,73,Forward,ncaaw.p.63982,Green Bay,31,692,104,199,52.3,15,48,31.3,32,45,71.1,49,100,149,62,44,23,30,71,255
+Ines Piper, Temple (AAC),Junior,72,Forward,ncaaw.p.71592,South Florida,30,648,95,217,43.8,5,30,16.7,17,25,68,76,73,149,32,46,38,29,100,212
+Summah Hanson, Sacramento St. (Big Sky),Freshman,74,Forward,ncaaw.p.112338,UC Irvine,30,1005,154,355,43.4,38,108,35.2,73,87,83.9,71,191,262,33,105,38,28,97,419
+Peyton McFarland, Houston (Big 12),Junior,76,Forward,ncaaw.p.64388,Houston,30,561,72,136,52.9,0,1,0,33,51,64.7,59,73,132,3,41,19,28,70,177
+Carys Roy, Saint Peter's (MAAC),Freshman,75,Center,ncaaw.p.112917,St. Peter's,29,619,59,107,55.1,0,0,,54,75,72,57,69,126,18,57,29,26,53,172
+Petra Juric, Manhattan (MAAC),Junior,74,Forward,ncaaw.p.66784,Manhattan,26,814,112,216,51.9,2,9,22.2,42,48,87.5,85,123,208,33,60,33,24,37,268
+Denai Bowman, Binghamton (America East),Senior,69,Guard,ncaaw.p.60315,Binghamton,25,779,123,255,48.2,2,3,66.7,54,82,65.9,33,73,106,66,44,36,23,33,302
+Oralye Kiefer, Northeastern (CAA),Sophomore,75,Forward,ncaaw.p.70895,Northeastern,23,427,34,92,37,12,42,28.6,3,5,60,18,35,53,12,23,8,21,27,83
+Jazmyn Turner, IUPUI (Horizon),Senior,74,Forward,ncaaw.p.66602,IU Indy,23,467,83,195,42.6,1,12,8.3,105,148,70.9,50,99,149,41,57,17,21,79,272
+Tiasia McMillan, Colgate (Patriot),Senior,72,Forward,ncaaw.p.64473,Stetson,29,858,132,259,51,1,3,33.3,33,56,58.9,38,97,135,59,63,24,25,63,298
+Clarice Akunwafo, Southern California (Pac-12),Junior,78,Center,ncaaw.p.67290,USC,28,303,28,42,66.7,0,0,,3,15,20,34,43,77,11,21,10,19,55,59
+Aaliyah Roberson, TCU (Big 12),Sophomore,74,Forward,ncaaw.p.71503,TCU,31,833,90,180,50,28,81,34.6,32,49,65.3,68,118,186,34,46,23,29,61,240
+Mallory Brake, Creighton (Big East),Senior,72,Forward,ncaaw.p.64707,Creighton,29,702,67,128,52.3,2,12,16.7,14,34,41.2,72,86,158,61,30,50,28,65,150
+Helene Haegerstrand, UAlbany (America East),Senior,73,Forward,ncaaw.p.61478,University at Albany,30,903,97,243,39.9,37,106,34.9,44,51,86.3,19,91,110,59,55,21,28,33,275
+Marah Dykstra, Montana St. (Big Sky),Sophomore,74,Forward,ncaaw.p.70862,Montana St.,29,842,112,262,42.7,9,38,23.7,94,124,75.8,53,112,165,78,75,22,26,44,327
+Kiki Iriafen, Stanford (Pac-12),Junior,75,Forward,ncaaw.p.67102,USC,32,875,249,453,55,2,5,40,96,128,75,129,224,353,67,71,19,19,94,596
+Alissa Pili, Utah (Pac-12),Senior,74,Forward,ncaaw.p.60891,Utah,32,902,246,449,54.8,50,127,39.4,124,152,81.6,42,167,209,78,62,28,26,62,666
+Audi Crooks, Iowa St. (Big 12),Freshman,75,Center,ncaaw.p.112287,Iowa St.,29,737,214,367,58.3,4,12,33.3,103,153,67.3,74,147,221,31,70,11,16,63,535
+Peyton Kennedy, Saint Louis (Atlantic 10),Senior,71,Forward,ncaaw.p.64706,Saint Louis,34,1007,204,417,48.9,62,161,38.5,72,82,87.8,69,104,173,45,69,48,9,92,542
+Danae McNeal, East Carolina (AAC),Senior,72,Guard,ncaaw.p.60311,East Carolina,29,991,228,543,42,35,120,29.2,120,147,81.6,24,70,94,69,84,93,15,39,611
+Desi-Rae Young, UNLV (Mountain West),Senior,73,Center,ncaaw.p.64800,UNLV,29,826,219,386,56.7,10,32,31.3,91,130,70,80,181,261,60,69,36,12,79,539
+Jada Guinn, Chattanooga (SoCon),Senior,68,Guard,ncaaw.p.60806,Chattanooga,31,1102,231,439,52.6,6,21,28.6,130,166,78.3,42,174,216,80,66,31,11,55,598
+Lauren Gustin, BYU (Big 12),Senior,73,Forward,ncaaw.p.57907,BYU,32,1179,243,478,50.8,1,12,8.3,58,127,45.7,163,327,490,58,101,15,8,88,545
+Katelyn Young, Murray St. (MVC),Senior,73,Center,ncaaw.p.64688,Murray St.,29,856,215,420,51.2,33,111,29.7,108,121,89.3,59,173,232,66,62,30,18,58,571
+Anne Simon, Maine (America East),Senior,68,Guard,ncaaw.p.60335,Maine,30,1056,210,482,43.6,63,187,33.7,77,94,81.9,49,171,220,97,92,73,6,77,560
+Edyn Battle, Jacksonville (ASUN),Sophomore,67,Guard,ncaaw.p.101354,Jacksonville,31,1060,231,531,43.5,38,115,33,132,185,71.4,27,84,111,77,118,50,2,79,632
+Alexis Hutchison, Wright St. (Horizon),Senior,67,Guard,ncaaw.p.113283,Wright St.,32,1086,222,540,41.1,62,200,31,109,132,82.6,30,149,179,102,96,61,5,78,615
+Aziaha James, NC State (ACC),Junior,69,Guard,ncaaw.p.66982,N.C. State,32,983,188,459,41,56,176,31.8,76,100,76,26,125,151,89,77,34,7,70,508
+Kyla McMakin, Saint Louis (Atlantic 10),Senior,71,Guard,ncaaw.p.60527,Saint Louis,34,1181,204,541,37.7,51,154,33.1,126,159,79.2,21,74,95,44,82,38,5,53,585
+Terren Ward, Ga. Southern (Sun Belt),Senior,71,Guard,ncaaw.p.63867,Mississippi St.,29,871,230,580,39.7,60,183,32.8,117,147,79.6,87,177,264,54,95,52,21,100,637
+Unique Drake, St. John's (NY) (Big East),Senior,67,Guard,ncaaw.p.61452,St. John's,31,1118,201,486,41.4,71,197,36,76,92,82.6,25,41,66,40,51,23,6,49,549
+Raegan McCowan, Western Ill. (OVC),Freshman,71,Guard,ncaaw.p.113022,Western Ill.,30,904,222,482,46.1,8,23,34.8,131,166,78.9,72,170,242,35,93,22,5,74,583
+Delanie Crawford, Tulsa (AAC),Junior,71,Guard,ncaaw.p.67411,Tulsa,31,996,198,437,45.3,86,214,40.2,116,140,82.9,36,140,176,80,76,34,5,82,598
+Ja'Mia Hollings, Troy (Sun Belt),Senior,74,Forward,ncaaw.p.67446,Troy,30,871,179,371,48.2,18,63,28.6,69,98,70.4,73,194,267,22,64,51,21,78,445
+Alexis Markowski, Nebraska (Big Ten),Junior,75,Center,ncaaw.p.66929,Nebraska,32,922,199,417,47.7,19,63,30.2,87,125,69.6,102,240,342,38,57,23,11,77,504
+Chloe Webb, California Baptist (WAC),Senior,68,Guard,ncaaw.p.60598,California Baptist,29,903,204,401,50.9,60,158,38,149,185,80.5,52,174,226,79,62,76,3,98,617
+Grace Berg, Drake (MVC),Senior,72,Forward,ncaaw.p.57395,Drake,31,915,196,382,51.3,43,124,34.7,92,112,82.1,33,129,162,79,92,24,10,56,527
+Abbey Hsu, Columbia (Ivy League),Senior,71,Guard,ncaaw.p.60662,Columbia,27,909,199,437,45.5,78,198,39.4,80,105,76.2,36,157,193,58,60,32,15,46,556
+Sarah Ashlee Barker, Alabama (SEC),Junior,72,Guard,ncaaw.p.64911,Alabama,31,934,205,410,50,41,114,36,82,116,70.7,58,141,199,93,92,62,15,79,533
+Jerkaila Jordan, Mississippi St. (SEC),Senior,69,Guard,ncaaw.p.64057,Mississippi St.,32,988,193,432,44.7,37,110,33.6,88,112,78.6,53,137,190,79,73,69,22,71,511
+Mickayla Perdue, Cleveland St. (Horizon),Senior,66,Guard,ncaaw.p.100930,Cleveland St.,32,965,188,397,47.4,76,197,38.6,99,127,78,15,32,47,51,79,36,4,38,551
+Javyn Nicholson, Georgia (SEC),Senior,74,Forward,ncaaw.p.60982,Georgia,30,919,206,435,47.4,0,1,0,93,126,73.8,71,190,261,32,77,27,15,58,505
+Kurstyn Harden, SFA (WAC),Senior,75,Center,ncaaw.p.61191,S.F. Austin,31,853,181,322,56.2,1,8,12.5,171,213,80.3,97,136,233,50,77,24,26,82,534
+Lex Therien, Loyola Maryland (Patriot),Junior,73,Forward,ncaaw.p.66727,Loyola Maryland,29,829,199,355,56.1,4,14,28.6,65,90,72.2,69,232,301,53,73,42,7,96,467
+Zanai Barnett-Gay, Navy (Patriot),Freshman,68,Guard,ncaaw.p.113363,Navy,29,1003,196,486,40.3,31,103,30.1,104,135,77,38,144,182,86,99,89,5,96,527
+Kacie Borowicz, North Dakota (Summit League),Senior,69,Guard,ncaaw.p.61579,North Dakota,26,924,197,484,40.7,31,100,31,111,127,87.4,32,106,138,89,123,46,2,67,542
+Talya Brugler, Saint Joseph's (Atlantic 10),Junior,73,Forward,ncaaw.p.67466,St. Joseph's,31,1028,188,347,54.2,12,45,26.7,102,119,85.7,57,75,132,79,61,23,20,63,490
+Kayla Cooper, UAlbany (America East),Senior,72,Guard,ncaaw.p.63983,University at Albany,30,884,186,353,52.7,0,2,0,98,134,73.1,85,140,225,61,92,44,16,80,470
+Taleyah Jones, Oral Roberts (Summit League),Sophomore,70,Guard,ncaaw.p.71282,Oral Roberts,29,923,180,412,43.7,38,120,31.7,96,114,84.2,45,45,90,51,60,48,3,55,494
+Skylar Vann, Oklahoma (Big 12),Senior,72,Guard,ncaaw.p.65065,Oklahoma,30,777,181,393,46.1,34,115,29.6,47,60,78.3,77,138,215,72,60,32,16,78,443
+Bronagh Power-Cassidy, Holy Cross (Patriot),Senior,70,Guard,ncaaw.p.64126,Villanova,27,892,169,374,45.2,65,164,39.6,45,60,75,37,93,130,41,49,21,14,74,448
+Laniah Randle, Southern Ill. (MVC),Junior,69,Guard,ncaaw.p.67376,Missouri,28,872,199,406,49,0,2,0,126,169,74.6,102,141,243,43,70,62,20,96,524
+Rickea Jackson, Tennessee (SEC),Senior,74,Forward,ncaaw.p.61009,Tennessee,23,724,176,374,47.1,20,61,32.8,74,97,76.3,56,129,185,56,68,17,6,48,446
+Aliyah Matharu, Florida (SEC),Senior,67,Guard,ncaaw.p.61007,Baylor,29,704,194,482,40.2,46,174,26.4,113,143,79,29,78,107,71,101,80,10,100,547
+Kaitlin Peterson, UCF (Big 12),Junior,68,Guard,ncaaw.p.66802,UCF,29,1089,198,518,38.2,65,197,33,138,183,75.4,25,85,110,40,71,59,2,51,599
+Tai'Sheka Porchia, Troy (Sun Belt),Senior,73,Forward,ncaaw.p.71373,Troy,30,839,172,328,52.4,1,2,50,100,137,73,126,113,239,20,54,38,13,66,445
+Dazia Lawrence, Charlotte (AAC),Junior,68,Guard,ncaaw.p.61120,Kentucky,30,989,192,445,43.1,33,106,31.1,128,160,80,23,105,128,83,90,53,3,61,545
+Milahnie Perry, Air Force (Mountain West),Sophomore,67,Guard,ncaaw.p.71408,Air Force,31,989,193,481,40.1,41,116,35.3,95,124,76.6,21,52,73,84,60,41,15,52,522
+Antwainette Walker, Eastern Ky. (ASUN),Senior,71,Guard,ncaaw.p.57501,E. Kentucky,27,821,184,460,40,43,129,33.3,80,96,83.3,36,119,155,36,90,51,5,46,491
+Kaitlyn Zarycki, Western Mich. (MAC),Senior,68,Guard,ncaaw.p.112748,W. Michigan,29,1003,191,361,52.9,34,68,50,124,140,88.6,39,97,136,102,102,56,10,82,540
+Ahriahna Grizzle, Florida A&M (SWAC),Senior,69,Guard,ncaaw.p.60937,Florida A&M,29,993,189,444,42.6,36,101,35.6,122,158,77.2,20,83,103,84,110,67,15,88,536
+Laila Phelia, Michigan (Big Ten),Junior,72,Guard,ncaaw.p.67557,Texas,32,1117,189,447,42.3,36,111,32.4,125,155,80.6,38,77,115,61,65,41,9,50,539
+Honesty Scott-Grayson, Auburn (SEC),Senior,69,Guard,ncaaw.p.56767,Auburn,30,882,189,456,41.4,39,128,30.5,105,135,77.8,25,102,127,70,82,42,11,69,522
+Hannah Stuelke, Iowa (Big Ten),Sophomore,74,Forward,ncaaw.p.70737,Iowa,28,662,162,251,64.5,4,8,50,71,115,61.7,78,109,187,36,46,24,10,70,399
+Amari Robinson, Clemson (ACC),Senior,72,Forward,ncaaw.p.60325,Clemson,31,959,193,365,52.9,28,79,35.4,121,153,79.1,92,114,206,44,86,31,3,67,535
+Adryana Quezada, San Diego St. (Mountain West),Senior,70,Forward,ncaaw.p.61265,SDSU,31,892,172,323,53.3,9,23,39.1,80,98,81.6,63,142,205,56,52,27,12,39,433
+Leilani Correa, Florida (SEC),Senior,72,Guard,ncaaw.p.61453,Florida,31,913,190,432,44,52,142,36.6,106,136,77.9,26,103,129,57,50,40,14,43,538
+Faith Alston, App State (Sun Belt),Senior,67,Guard,ncaaw.p.64040,Richmond,32,1096,191,470,40.6,50,172,29.1,154,196,78.6,16,85,101,150,136,60,7,74,586
+Carter McCray, Northern Ky. (Horizon),Freshman,73,Center,ncaaw.p.113293,Wisconsin,31,981,191,339,56.3,0,0,,105,170,61.8,150,196,346,51,82,47,18,93,487
+Tessa Miller, Belmont (MVC),Junior,74,Forward,ncaaw.p.66613,Clemson,31,894,171,296,57.8,3,17,17.6,101,144,70.1,56,141,197,99,88,24,27,85,446
+Jalei Oglesby, Oral Roberts (Summit League),Junior,68,Guard,ncaaw.p.112778,Oral Roberts,29,658,172,334,51.5,4,15,26.7,51,80,63.8,72,115,187,29,25,29,5,72,399
+Samora Watson, Central Conn. St. (NEC),Sophomore,66,Guard,ncaaw.p.70582,Central Conn. St.,28,948,185,457,40.5,18,52,34.6,93,124,75,40,118,158,66,87,40,6,67,481
+Kenley McCarn, UT Martin (OVC),Freshman,71,Guard,ncaaw.p.71405,Tenn-Martin,31,1170,183,418,43.8,68,180,37.8,83,100,83,17,121,138,87,118,46,10,53,517
+Peyton McDaniel, James Madison (Sun Belt),Junior,72,Guard,ncaaw.p.64697,James Madison,32,836,169,396,42.7,71,206,34.5,62,77,80.5,56,172,228,28,49,25,12,48,471
+Tiara Young, SMU (AAC),Senior,69,Guard,ncaaw.p.60997,SMU,30,967,189,420,45,13,44,29.5,124,176,70.5,22,133,155,62,81,31,10,84,515
+Romi Levy, South Fla. (AAC),Sophomore,74,Forward,ncaaw.p.64232,South Florida,31,871,178,406,43.8,35,96,36.5,70,96,72.9,29,116,145,68,50,22,27,42,461
+Destiny Adams, Rutgers (Big Ten),Junior,75,Forward,ncaaw.p.66986,Rutgers,32,954,186,371,50.1,1,8,12.5,127,186,68.3,98,156,254,56,114,51,24,113,500
+Alexis Whitfield, UC Santa Barbara (Big West),Senior,74,Forward,ncaaw.p.64848,Oregon,30,933,174,384,45.3,28,74,37.8,63,89,70.8,56,231,287,72,104,23,23,71,439
+Mikaylah Williams, LSU (SEC),Freshman,72,Guard,ncaaw.p.112123,LSU,29,913,162,340,47.6,49,130,37.7,58,74,78.4,42,99,141,89,71,37,9,65,431
+Kate Martin, Iowa (Big Ten),Senior,72,Guard,ncaaw.p.56890,Iowa,32,876,152,292,52.1,40,109,36.7,69,78,88.5,41,165,206,78,57,29,15,53,413
+Natalie McNeal, Green Bay (Horizon),Junior,68,Guard,ncaaw.p.64699,Green Bay,30,756,163,330,49.4,1,16,6.3,64,88,72.7,52,152,204,58,41,36,3,38,391
+Amellia Bromenschenkel, Purdue Fort Wayne (Horizon),Senior,71,Guard,ncaaw.p.66388,PFW,32,1073,160,348,46,44,119,37,60,75,80,50,151,201,66,56,43,21,62,424
+Faith Lee, Little Rock (OVC),Sophomore,71,Forward,ncaaw.p.71524,AR Little Rock,30,948,182,458,39.7,3,18,16.7,68,95,71.6,34,59,93,34,80,37,3,99,435
+Jada Logan, Col. of Charleston (CAA),Senior,69,Guard,ncaaw.p.61130,Charleston,29,778,155,340,45.6,30,87,34.5,47,71,66.2,48,115,163,29,44,28,0,54,387
+Ashlyn Traylor-Walker, Radford (Big South),Sophomore,68,Guard,ncaaw.p.71081,S.F. Austin,32,984,175,478,36.6,40,152,26.3,124,168,73.8,60,134,194,76,145,55,24,93,514
+Sisi Eleko, Canisius (MAAC),Sophomore,74,Forward,ncaaw.p.71007,East. Michigan,29,886,170,345,49.3,17,37,45.9,108,147,73.5,80,232,312,32,106,19,9,85,465
+Laura Ziegler, Saint Joseph's (Atlantic 10),Sophomore,74,Forward,ncaaw.p.71061,St. Joseph's,28,920,169,379,44.6,42,124,33.9,30,39,76.9,42,224,266,78,58,17,24,36,410
+Jalyn Brown, Arizona St. (Pac-12),Sophomore,73,Guard,ncaaw.p.70787,Arizona St.,29,1041,180,464,38.8,38,108,35.2,103,134,76.9,33,82,115,46,85,27,5,82,501
+Marquesha Davis, Ole Miss (SEC),Senior,72,Forward,ncaaw.p.61123,Mississippi,31,840,177,384,46.1,11,46,23.9,88,128,68.8,48,102,150,37,51,46,22,52,453
+Leah Earnest, Valparaiso (MVC),Senior,70,Guard,ncaaw.p.64588,Valparaiso,29,897,170,365,46.6,27,98,27.6,104,138,75.4,48,158,206,79,96,37,9,70,471
+Ajae Petty, Kentucky (SEC),Senior,75,Forward,ncaaw.p.63863,Ohio St.,32,997,179,353,50.7,0,0,,95,192,49.5,124,215,339,31,95,43,27,83,453
+Eleonora Villa, Washington St. (Pac-12),Freshman,68,Guard,ncaaw.p.112515,Washington St.,32,1055,161,372,43.3,47,141,33.3,46,63,73,10,47,57,67,55,28,3,56,415
+DeAnna Wilson, Illinois St. (MVC),Senior,74,Forward,ncaaw.p.65158,Illinois St.,29,764,157,328,47.9,3,13,23.1,116,154,75.3,74,136,210,19,63,23,23,87,433
+S'Mya Nichols, Kansas (Big 12),Freshman,72,Guard,ncaaw.p.112296,Kansas,31,921,146,312,46.8,29,71,40.8,150,184,81.5,22,65,87,84,84,43,3,85,471
+Jillian Hayes, Cincinnati (Big 12),Senior,73,Forward,ncaaw.p.64376,Cincinnati,31,768,118,283,41.7,8,24,33.3,152,207,73.4,100,160,260,30,60,38,25,73,396
+Jakayla Johnson, ULM (Sun Belt),Junior,69,Guard,ncaaw.p.71228,LA Monroe,32,1023,149,332,44.9,47,123,38.2,139,165,84.2,30,123,153,88,85,47,6,73,484
+DesiRay Kernal, North Texas (AAC),Senior,72,Forward,ncaaw.p.65718,North Texas,30,932,164,325,50.5,19,50,38,150,192,78.1,59,198,257,69,111,47,5,73,497
+Jane Asinde, UTEP (CUSA),Senior,73,Forward,ncaaw.p.67734,UTEP,28,863,158,335,47.2,11,44,25,135,195,69.2,65,193,258,46,105,50,16,96,462
+Jordan Webster, UC Riverside (Big West),Senior,70,Guard,ncaaw.p.65219,Kansas,30,1011,159,433,36.7,52,174,29.9,137,165,83,41,112,153,41,61,74,2,48,507
+Reagan Bass, Akron (MAC),Junior,73,Forward,ncaaw.p.66599,Purdue,29,983,165,342,48.2,11,37,29.7,135,172,78.5,80,208,288,33,85,27,22,58,476
+Khamari Mitchell-Steen, Northern Ky. (Horizon),Junior,67,Guard,ncaaw.p.67011,Fla Gulf Coast,30,996,131,348,37.6,14,55,25.5,135,203,66.5,22,129,151,95,104,60,20,91,411
+Raven Thompson, Chattanooga (SoCon),Sophomore,70,Forward,ncaaw.p.70664,Clemson,30,891,145,316,45.9,16,43,37.2,124,157,79,63,150,213,50,65,29,10,65,430
+Bailey Maupin, Texas Tech (Big 12),Sophomore,70,Guard,ncaaw.p.71153,Texas Tech,33,1044,143,359,39.8,52,162,32.1,127,148,85.8,27,97,124,102,118,42,5,71,465
+Alecia Westbrook, A&M-Corpus Christi (Southland),Senior,73,Forward,ncaaw.p.60987,Texas A&M-Corpus Christi,29,746,103,204,50.5,2,11,18.2,118,154,76.6,67,153,220,78,43,54,18,52,326
+Nylah Young, William & Mary (CAA),Senior,71,Forward,ncaaw.p.61764,William & Mary,28,647,161,362,44.5,2,11,18.2,121,133,91,42,105,147,15,57,27,15,84,445
+Mia Moore, UAB (AAC),Sophomore,66,Guard,ncaaw.p.66868,Clemson,29,971,154,331,46.5,21,56,37.5,123,155,79.4,80,182,262,82,66,43,1,64,452
+Daejah Phillips, Hawaii (Big West),Junior,70,Guard,ncaaw.p.65259,Hawaii,28,743,86,205,42,19,68,27.9,118,150,78.7,27,106,133,60,68,44,7,76,309
+Bryanna Brady, Presbyterian (Big South),Senior,75,Center,ncaaw.p.57786,Presbyterian,33,857,143,281,50.9,0,2,0,114,145,78.6,69,82,151,41,82,9,26,71,400
+Jasmine Gayles, San Francisco (WCC),Senior,67,Guard,ncaaw.p.61187,San Francisco,30,1037,162,443,36.6,56,192,29.2,124,171,72.5,15,106,121,74,98,28,1,54,504
+Nyah Wilson, New Mexico (Mountain West),Junior,68,Guard,ncaaw.p.67161,Missouri,31,974,164,398,41.2,28,80,35,117,160,73.1,31,111,142,65,72,38,6,72,473
+Taylor Henderson, UNCW (CAA),Sophomore,71,Guard,ncaaw.p.71692,N.C. Wilmington,28,903,135,467,28.9,24,101,23.8,115,152,75.7,39,126,165,68,156,58,10,78,409
+Lauren Bevis, High Point (Big South),Senior,65,Guard,ncaaw.p.60510,High Point,30,1008,149,357,41.7,76,204,37.3,121,134,90.3,15,84,99,29,54,32,6,44,495
+Kade Hackerott, UTRGV (WAC),Junior,71,Guard,ncaaw.p.112807,UT Rio Grande Valley,29,976,105,315,33.3,14,71,19.7,120,164,73.2,37,198,235,81,82,29,17,64,344
+Kirsten Lewis-Williams, Buffalo (MAC),Freshman,70,Guard,ncaaw.p.112576,Buffalo,29,956,123,263,46.8,1,9,11.1,103,144,71.5,52,95,147,83,83,42,14,105,350
+Chloe Wilson, Delaware (CAA),Senior,71,Forward,ncaaw.p.64693,Delaware,29,774,106,246,43.1,12,45,26.7,113,151,74.8,42,153,195,43,93,35,5,86,337
+Kiki Jefferson, Louisville (ACC),Senior,73,Guard,ncaaw.p.60534,Louisville,33,811,136,292,46.6,28,82,34.1,113,127,89,36,116,152,78,70,36,7,58,413
+Cotie McMahon, Ohio St. (Big Ten),Sophomore,72,Forward,ncaaw.p.71753,Ohio St.,30,869,153,335,45.7,14,60,23.3,102,165,61.8,44,152,196,66,77,35,17,78,422
+Katie Shumate, Kent St. (MAC),Senior,71,Guard,ncaaw.p.61104,Kent St.,28,909,141,345,40.9,38,120,31.7,102,126,81,68,136,204,53,50,40,20,44,422
+Jordan Jones, Denver (Summit League),Sophomore,71,Guard,ncaaw.p.70695,Denver,30,979,148,374,39.6,39,140,27.9,111,147,75.5,32,173,205,87,116,31,6,90,446
+Alyssa Fisher, Loyola Chicago (Atlantic 10),Senior,67,Guard,ncaaw.p.61736,Loyola Chicago,31,1033,129,337,38.3,49,156,31.4,110,135,81.5,19,68,87,69,59,49,0,45,417
+Bri McDaniel, Maryland (Big Ten),Sophomore,70,Guard,ncaaw.p.70818,Maryland,32,824,137,321,42.7,24,61,39.3,108,135,80,31,98,129,88,83,54,5,91,406
+Iyana Moore, Vanderbilt (SEC),Junior,68,Guard,ncaaw.p.67240,Vanderbilt,31,1014,141,367,38.4,51,157,32.5,99,117,84.6,29,77,106,84,77,41,3,75,432
+Emilia Tenbrock, McNeese (Southland),Junior,72,Guard,ncaaw.p.113115,Coastal Car.,31,972,150,351,42.7,44,104,42.3,110,125,88,35,92,127,48,47,44,13,62,454
+Grace VanSlooten, Oregon (Pac-12),Sophomore,75,Forward,ncaaw.p.70940,Michigan St.,31,1090,176,444,39.6,2,29,6.9,110,166,66.3,64,157,221,81,80,35,21,42,464
+Arin Freeman, Coastal Carolina (Sun Belt),Junior,67,Guard,ncaaw.p.67522,Ill. Chicago,33,1052,164,411,39.9,7,19,36.8,109,163,66.9,66,102,168,99,132,53,2,102,444
+Liz Smith, Pacific (WCC),Senior,69,Guard,ncaaw.p.65047,Pacific,25,873,87,240,36.3,28,108,25.9,104,123,84.6,9,76,85,80,82,34,9,58,306
+Cheyenne Stubbs, Utah St. (Mountain West),Junior,65,Guard,ncaaw.p.67417,Utah St.,29,961,151,392,38.5,56,164,34.1,103,138,74.6,15,101,116,55,88,48,2,39,461
+Anna Deets, Western Ill. (OVC),Senior,69,Guard,ncaaw.p.64941,Western Ill.,29,838,109,275,39.6,61,182,33.5,108,127,85,22,105,127,39,53,25,2,62,387
+Ja'Niah Henson, Texas St. (Sun Belt),Senior,63,Guard,ncaaw.p.61712,Texas St.,32,984,143,378,37.8,77,201,38.3,108,116,93.1,10,67,77,52,62,36,3,30,471
+Molly Kaiser, New Mexico St. (CUSA),Senior,68,Guard,ncaaw.p.65328,N. Mex. St.,29,987,155,393,39.4,24,68,35.3,91,104,87.5,19,44,63,48,70,27,4,72,425
+Kynidi Mason Striverson, Evansville (MVC),Sophomore,68,Guard,ncaaw.p.70675,Evansville,31,1069,115,379,30.3,28,96,29.2,103,137,75.2,16,65,81,119,111,26,0,73,361
+Jasmine Shavers, Texas Tech (Big 12),Sophomore,69,Guard,ncaaw.p.66867,Texas Tech,33,943,173,431,40.1,55,164,33.5,107,128,83.6,37,135,172,50,80,43,0,51,508
+Kacee Baumhower, Wright St. (Horizon),Junior,69,Guard,ncaaw.p.67542,Milwaukee,32,1036,124,329,37.7,46,154,29.9,104,123,84.6,9,99,108,86,109,40,2,55,398
+Emani Jefferson, FGCU (ASUN),Junior,66,Guard,ncaaw.p.65050,Fla Gulf Coast,22,576,126,226,55.8,12,47,25.5,97,119,81.5,53,68,121,81,61,45,15,56,361
+Aaliyah Alexander, Eastern Wash. (Big Sky),Sophomore,68,Guard,ncaaw.p.64515,UNLV,31,910,163,384,42.4,42,111,37.8,97,124,78.2,43,102,145,43,61,25,3,61,465
+Brooklyn Gray, Saint Louis (Atlantic 10),Sophomore,71,Guard,ncaaw.p.112448,Saint Louis,31,846,117,267,43.8,23,72,31.9,95,113,84.1,25,60,85,38,72,30,3,80,352
+Prencis Harden, Kennesaw St. (ASUN),Junior,71,Forward,ncaaw.p.66768,Kennesaw St.,28,804,146,337,43.3,0,3,0,104,133,78.2,77,140,217,34,66,39,16,90,396
+Daryn Hickok, Weber St. (Big Sky),Senior,70,Forward,ncaaw.p.61152,Weber St.,32,875,135,371,36.4,21,76,27.6,102,141,72.3,43,110,153,40,100,44,4,97,393
+Moulayna Johnson Sidi Baba, UC Irvine (Big West),Senior,73,Guard,ncaaw.p.60352,UC Irvine,24,518,95,219,43.4,4,22,18.2,80,115,69.6,42,118,160,22,42,20,4,25,274
+Ryann Payne, Prairie View (SWAC),Senior,67,Guard,ncaaw.p.56796,Prairie View A&M,24,713,137,326,42,19,66,28.8,88,103,85.4,30,45,75,60,66,54,3,35,381
+Dontavia Waggoner, Boston College (ACC),Senior,72,Guard,ncaaw.p.65147,Boston Coll.,33,942,160,360,44.4,1,4,25,104,173,60.1,111,90,201,51,68,98,11,104,425
+Abby Conklin, FDU (NEC),Senior,67,Guard,ncaaw.p.64681,FDU,29,1082,99,262,37.8,73,197,37.1,24,33,72.7,16,96,112,80,44,22,4,46,295
+Courtney Whitson, Middle Tenn. (CUSA),Senior,72,Forward,ncaaw.p.61237,Middle Tenn. St.,30,1121,100,267,37.5,65,206,31.6,16,22,72.7,54,142,196,70,54,31,6,70,281
+Jalynn Gregory, Middle Tenn. (CUSA),Junior,68,Guard,ncaaw.p.67645,Middle Tenn. St.,30,1075,104,296,35.1,82,227,36.1,81,90,90,12,83,95,87,47,53,6,70,371
+Madison Griggs, Memphis (AAC),Senior,69,Guard,ncaaw.p.60623,Memphis,29,1073,173,471,36.7,88,242,36.4,54,69,78.3,9,83,92,58,86,54,6,46,488
+Taliah Scott, Arkansas (SEC),Freshman,69,Guard,ncaaw.p.112099,Auburn,20,730,151,371,40.7,52,176,29.5,88,105,83.8,8,57,65,29,68,12,2,39,442
+Chance Gray, Oregon (Pac-12),Sophomore,69,Guard,ncaaw.p.70938,Ohio St.,31,1130,149,430,34.7,59,175,33.7,73,90,81.1,8,83,91,92,84,24,1,28,430
+Derin Erdogan, Northeastern (CAA),Senior,66,Guard,ncaaw.p.64104,Northeastern,25,895,139,345,40.3,55,162,34,43,56,76.8,13,109,122,105,110,36,5,60,376
+Esmeralda Morales, Portland St. (Big Sky),Junior,65,Guard,ncaaw.p.67477,Montana St.,31,1115,166,445,37.3,87,257,33.9,93,103,90.3,14,61,75,87,68,35,0,33,512
+Annabelle Schultz, Wofford (SoCon),Senior,67,Guard,ncaaw.p.65028,Wofford,30,1074,96,289,33.2,56,200,28,33,44,75,20,123,143,38,24,55,4,76,281
+Sonia Citron, Notre Dame (ACC),Junior,73,Guard,ncaaw.p.68174,Notre Dame,22,769,129,280,46.1,39,110,35.5,73,80,91.3,26,85,111,58,50,37,15,50,370
+Hannah Simental, Northern Colo. (Big Sky),Senior,68,Guard,ncaaw.p.64996,Colorado St.,29,1027,130,303,42.9,66,169,39.1,40,47,85.1,14,90,104,68,49,38,4,44,366
+Quincy Noble, Oklahoma St. (Big 12),Senior,70,Guard,ncaaw.p.57873,Oklahoma St.,30,1073,141,349,40.4,45,140,32.1,58,68,85.3,32,81,113,68,66,41,13,52,385
+Taylor Donaldson, Fordham (Atlantic 10),Senior,70,Guard,ncaaw.p.65330,Fordham,27,954,173,465,37.2,77,215,35.8,60,83,72.3,37,106,143,44,61,62,5,65,483
+Delaynie Byrne, Northern Colo. (Big Sky),Senior,75,Forward,ncaaw.p.61172,Northern Colorado,29,1021,131,279,47,53,137,38.7,78,105,74.3,67,166,233,54,73,34,14,56,393
+Meghan Kenefick, Central Conn. St. (NEC),Senior,72,Forward,ncaaw.p.64454,Central Conn. St.,29,1027,108,270,40,19,91,20.9,7,12,58.3,44,122,166,46,41,21,19,61,242
+Evanne Turner, UC Davis (Big West),Senior,69,Guard,ncaaw.p.61358,UC Davis,29,1030,153,371,41.2,72,194,37.1,43,50,86,20,93,113,77,75,29,0,54,421
+Lola Mullaney, Harvard (Ivy League),Senior,71,Guard,ncaaw.p.61027,Harvard,27,955,136,340,40,60,188,31.9,36,47,76.6,21,71,92,55,53,29,10,57,368
+Madison Conner, TCU (Big 12),Junior,71,Guard,ncaaw.p.66481,TCU,25,874,154,403,38.2,94,242,38.8,83,97,85.6,16,106,122,72,66,29,7,66,485
+Belle Lanpher, Central Conn. St. (NEC),Junior,65,Guard,ncaaw.p.65189,Central Conn. St.,29,1025,133,351,37.9,34,127,26.8,65,74,87.8,30,52,82,82,78,46,3,89,365
+Zaria Shazer, Marist (MAAC),Senior,73,Forward,ncaaw.p.64466,Marist,28,935,150,406,36.9,5,18,27.8,91,130,70,57,178,235,70,82,38,24,75,396
+Grace Heeps, Canisius (MAAC),Senior,71,Guard,ncaaw.p.61142,Canisius,29,1013,66,204,32.4,38,134,28.4,30,41,73.2,53,107,160,56,43,35,11,40,200
+Taleah Washington, Wagner (NEC),Senior,67,Guard,ncaaw.p.60482,Wagner,25,873,74,242,30.6,33,122,27,49,81,60.5,8,99,107,94,105,32,6,53,230
+Gabi Vidmar, Cal St. Fullerton (Big West),Senior,70,Guard,ncaaw.p.64016,CSU Fullerton,30,1050,114,285,40,65,175,37.1,39,46,84.8,24,107,131,68,53,69,9,43,332
+Zakiyah Franklin, Kansas (Big 12),Senior,67,Guard,ncaaw.p.61092,Kansas,31,1067,134,318,42.1,29,93,31.2,66,84,78.6,8,65,73,67,39,30,2,44,363
+Jayla Brooks, Little Rock (OVC),Senior,67,Guard,ncaaw.p.64484,AR Little Rock,30,1042,101,245,41.2,48,131,36.6,48,65,73.8,25,91,116,64,57,48,11,90,298
+Azjah Reeves, McNeese (Southland),Freshman,68,Guard,ncaaw.p.113113,McNeese,31,1077,93,310,30,30,137,21.9,59,101,58.4,18,81,99,58,100,44,5,49,275
+Saniah Parker, Tennessee St. (OVC),Junior,69,Guard,ncaaw.p.67561,Tennessee St.,18,623,63,176,35.8,11,37,29.7,41,58,70.7,22,76,98,44,33,45,14,47,178
+Kyla Jones, Brown (Ivy League),Senior,69,Guard,ncaaw.p.64609,Northwestern,26,903,172,376,45.7,17,60,28.3,83,118,70.3,36,87,123,74,110,42,10,52,444
+Shaunae Brown, CSU Bakersfield (Big West),Junior,65,Guard,ncaaw.p.61164,Arkansas St.,29,1003,154,403,38.2,88,243,36.2,27,36,75,15,42,57,52,44,29,3,32,423
+Jessica Tomasetti, Mount St. Mary's (MAAC),Senior,65,Guard,ncaaw.p.64649,University at Albany,29,1003,150,388,38.7,38,119,31.9,53,68,77.9,32,87,119,56,59,39,4,41,391
+Jayme DeCesare, Merrimack (NEC),Senior,65,Guard,ncaaw.p.61836,Merrimack,29,997,99,296,33.4,42,146,28.8,76,96,79.2,27,90,117,81,56,19,2,47,316
+Lauryn Pendleton, Arkansas St. (Sun Belt),Junior,69,Guard,ncaaw.p.66642,Alabama A&M,29,1002,123,321,38.3,33,108,30.6,69,95,72.6,15,103,118,71,55,46,3,55,348
+Daylani Ballena, Southern Utah (WAC),Senior,68,Guard,ncaaw.p.64316,Southern Utah,29,1002,168,428,39.3,37,122,30.3,82,124,66.1,17,80,97,106,103,25,3,61,455
+Patricia Anumgba, Towson (CAA),Junior,65,Guard,ncaaw.p.65262,Towson,28,975,138,345,40,49,139,35.3,81,106,76.4,13,76,89,62,62,41,4,58,406
+Morgan Callahan, N.C. Central (MEAC),Junior,73,Forward,ncaaw.p.65366,N.C. Central,24,867,132,300,44,1,15,6.7,77,138,55.8,73,148,221,45,86,42,20,61,342
+Mallory Heyer, Minnesota (Big Ten),Sophomore,73,Forward,ncaaw.p.70842,Minnesota,31,1048,103,275,37.5,57,170,33.5,22,50,44,72,191,263,33,37,16,3,36,285
+Makayla Daniels, Arkansas (SEC),Senior,68,Guard,ncaaw.p.61126,Arkansas,32,1090,124,307,40.4,56,160,35,78,117,66.7,40,100,140,84,55,53,8,82,382
+Savannah Tucker, Long Beach St. (Big West),Junior,69,Guard,ncaaw.p.64067,Long Beach St.,30,1014,119,308,38.6,46,144,31.9,87,108,80.6,21,83,104,36,53,29,8,43,371
+Jaylia Reed, Mississippi Val. (SWAC),Junior,66,Guard,ncaaw.p.113315,Miss. Valley St.,31,1047,103,344,29.9,56,205,27.3,36,56,64.3,28,68,96,67,82,51,3,68,298
+Lauren Schwartz, Washington (Pac-12),Senior,71,Forward,ncaaw.p.61433,Washington,30,1014,136,304,44.7,47,129,36.4,43,55,78.2,26,61,87,65,44,32,18,44,362
+Maleia Bracone, N.C. A&T (CAA),Junior,70,Guard,ncaaw.p.64051,N.C. A&T,29,961,109,309,35.3,44,167,26.3,66,79,83.5,23,113,136,87,75,63,11,71,328
+Sara Scalia, Indiana (Big Ten),Senior,70,Guard,ncaaw.p.60807,Indiana,29,945,149,344,43.3,95,220,43.2,76,85,89.4,10,99,109,73,30,27,2,37,469
+Sarah Te-Biasu, VCU (Atlantic 10),Senior,65,Guard,ncaaw.p.64521,Maryland,31,979,166,410,40.5,79,210,37.6,80,93,86,12,85,97,91,68,62,0,49,491
+Brynna Maxwell, Gonzaga (WCC),Senior,72,Guard,ncaaw.p.60896,Gonzaga,31,804,143,302,47.4,86,190,45.3,73,83,88,19,72,91,30,31,26,9,52,445
+Heaven Hamling, North Dakota St. (Summit League),Senior,68,Guard,ncaaw.p.57451,N. Dak. St.,30,922,157,365,43,65,166,39.2,75,91,82.4,28,114,142,81,64,52,2,66,454
+Abbey Ellis, Purdue (Big Ten),Senior,65,Guard,ncaaw.p.61067,Purdue,31,967,157,378,41.5,45,139,32.4,89,104,85.6,34,85,119,65,59,40,3,60,448
+Amiah Simmons, Alabama A&M (SWAC),Junior,69,Guard,ncaaw.p.68068,San Jose St.,30,999,159,414,38.4,46,134,34.3,90,110,81.8,23,89,112,66,95,48,2,43,454
+Morgan Maly, Creighton (Big East),Senior,73,Guard,ncaaw.p.64710,Creighton,29,885,160,363,44.1,64,184,34.8,54,60,90,28,165,193,68,45,23,21,59,438
+Caroline Strande, Butler (Big East),Senior,71,Guard,ncaaw.p.64237,Butler,30,968,161,357,45.1,43,94,45.7,86,106,81.1,45,171,216,80,72,36,4,44,451
+Aaliyah Nye, Alabama (SEC),Junior,71,Guard,ncaaw.p.64408,Alabama,32,988,155,370,41.9,104,244,42.6,34,48,70.8,17,77,94,39,44,59,15,50,448
+Maaliya Owens, Tennessee Tech (OVC),Senior,69,Guard,ncaaw.p.60788,Tennessee Tech,31,1006,156,383,40.7,94,238,39.5,72,79,91.1,12,96,108,78,57,39,13,66,478
+Halli Poock, Bradley (MVC),Freshman,64,Guard,ncaaw.p.112767,Murray St.,31,867,163,401,40.6,69,182,37.9,65,83,78.3,17,60,77,90,84,28,3,64,460
+Makayia Hallmon, Troy (Sun Belt),Senior,63,Guard,ncaaw.p.61537,Troy,27,788,149,405,36.8,34,127,26.8,72,90,80,15,62,77,47,50,25,1,73,404
+Tova Sabel, UC Davis (Big West),Junior,71,Guard,ncaaw.p.65038,UC Davis,30,923,157,386,40.7,66,198,33.3,40,60,66.7,21,117,138,55,65,29,18,59,420
+Kyren Whittington, Tulane (AAC),Junior,69,Guard,ncaaw.p.64192,Tulane,25,746,153,302,50.7,35,95,36.8,81,104,77.9,35,50,85,57,65,64,5,60,422
+Taryn Barbot, Col. of Charleston (CAA),Freshman,70,Guard,ncaaw.p.112555,Charleston,29,926,150,411,36.5,59,173,34.1,72,94,76.6,60,117,177,53,79,61,4,72,431
+Kara Dunn, Georgia Tech (ACC),Sophomore,71,Guard,ncaaw.p.70717,Georgia Tech,29,912,160,355,45.1,38,125,30.4,94,121,77.7,59,77,136,42,63,25,13,67,452
+Diamond Johnson, Norfolk St. (MEAC),Senior,65,Guard,ncaaw.p.51799,Norfolk St.,19,628,145,324,44.8,55,136,40.4,40,46,87,26,71,97,55,36,75,1,23,385
+Aislynn Hayes, Marshall (Sun Belt),Junior,66,Guard,ncaaw.p.61236,Marshall,29,676,145,340,42.6,59,148,39.9,70,136,51.5,50,86,136,42,48,41,1,67,419
+Jayde Gamble, UNC Greensboro (SoCon),Junior,66,Guard,ncaaw.p.67257,N.C. Greensboro,31,980,166,374,44.4,41,115,35.7,74,96,77.1,16,103,119,78,61,68,11,53,447
+Natalie Pasco, Boise St. (Mountain West),Sophomore,70,Forward,ncaaw.p.71705,Boise St.,31,932,148,369,40.1,75,189,39.7,43,53,81.1,14,54,68,32,54,22,3,43,414
+Kendall Bostic, Illinois (Big Ten),Senior,74,Forward,ncaaw.p.64110,Illinois,29,941,153,250,61.2,6,17,35.3,45,53,84.9,58,240,298,46,41,34,21,69,357
+Marissa Gasaway, Winthrop (Big South),Junior,71,Forward,ncaaw.p.113420,Winthrop,30,870,101,236,42.8,0,2,0,81,111,73,138,180,318,28,95,39,14,84,283
+Blessing King, Morehead St. (OVC),Sophomore,70,Forward,ncaaw.p.112994,Marshall,30,825,75,128,58.6,0,2,0,25,65,38.5,145,173,318,29,37,38,21,81,175
+Ruthie Udoumoh, Oral Roberts (Summit League),Senior,73,Forward,ncaaw.p.65085,Oral Roberts,29,857,129,268,48.1,0,5,0,87,133,65.4,96,178,274,40,56,56,17,88,345
+Alisha Wilson, Alabama A&M (SWAC),Junior,74,Forward,ncaaw.p.113231,Alabama A&M,30,793,114,219,52.1,1,3,33.3,39,78,50,120,181,301,26,63,40,24,91,268
+Ellie Mitchell, Princeton (Ivy League),Senior,73,Forward,ncaaw.p.61550,Princeton,27,797,59,119,49.6,0,0,,23,45,51.1,107,162,269,57,36,41,20,79,141
+Daniela Abies, Wichita St. (AAC),Sophomore,72,Forward,ncaaw.p.71486,Miami (FL),30,890,152,308,49.4,3,7,42.9,88,129,68.2,121,168,289,44,83,40,11,79,395
+Simone Foreman, Holy Cross (Patriot),Sophomore,69,Guard,ncaaw.p.70710,Holy Cross,29,770,68,199,34.2,11,45,24.4,24,37,64.9,39,208,247,32,34,25,2,33,171
+Arianna Smith, Dayton (Atlantic 10),Sophomore,74,Forward,ncaaw.p.66803,Dayton,27,728,105,193,54.4,1,15,6.7,38,50,76,122,163,285,33,79,18,3,62,249
+Brooke Stonebraker, NIU (MAC),Senior,75,Forward,ncaaw.p.65137,Northern Illinois,30,872,141,294,48,2,10,20,59,86,68.6,82,192,274,20,58,20,17,82,343
+Makaila Cange, Coastal Carolina (Sun Belt),Senior,71,Forward,ncaaw.p.113050,Coastal Car.,33,984,158,288,54.9,35,90,38.9,90,125,72,86,182,268,42,61,30,20,94,441
+Evelien Lutje Schipholt, South Fla. (AAC),Senior,74,Forward,ncaaw.p.61518,South Florida,31,773,92,198,46.5,0,2,0,71,98,72.4,109,141,250,20,33,25,25,100,255
+Mykel Parham, VCU (Atlantic 10),Senior,73,Forward,ncaaw.p.60347,VCU,31,840,51,152,33.6,0,1,0,61,96,63.5,95,165,260,27,43,34,24,52,163
+Janeta Rozentale, Fla. Atlantic (AAC),Senior,72,Forward,ncaaw.p.56650,Florida Atlantic,30,968,109,246,44.3,16,54,29.6,50,90,55.6,68,199,267,52,81,24,21,77,284
+Aijha Blackwell, Baylor (Big 12),Senior,72,Guard,ncaaw.p.61025,Baylor,29,638,93,219,42.5,14,50,28,52,90,57.8,89,154,243,47,51,33,7,67,252
+Madison Hayes, NC State (ACC),Senior,72,Guard,ncaaw.p.64246,N.C. State,32,996,122,279,43.7,50,119,42,65,94,69.1,76,150,226,40,47,23,15,41,359
+Kennedi Myles, Eastern Mich. (MAC),Senior,74,Forward,ncaaw.p.60681,East. Michigan,29,808,94,251,37.5,0,5,0,57,90,63.3,91,169,260,51,103,51,6,79,245
+Eliza Hollingsworth, Gonzaga (WCC),Senior,74,Forward,ncaaw.p.61045,Gonzaga,31,822,113,259,43.6,33,92,35.9,50,58,86.2,73,147,220,65,41,28,21,46,309
+Alyssa Brown, UNLV (Mountain West),Junior,73,Forward,ncaaw.p.67153,UNLV,27,636,55,134,41,15,57,26.3,30,46,65.2,64,160,224,57,43,18,20,75,155
+Quay Miller, Colorado (Pac-12),Senior,75,Center,ncaaw.p.61086,Colorado,31,829,101,252,40.1,29,88,33,49,65,75.4,53,179,232,42,72,27,5,57,280
+Jada Session, Furman (SoCon),Junior,73,Forward,ncaaw.p.67327,Furman,31,960,142,336,42.3,1,5,20,91,130,70,87,165,252,38,98,38,1,86,376
+Sydney Affolter, Iowa (Big Ten),Junior,71,Guard,ncaaw.p.66809,Iowa,32,722,80,141,56.7,18,44,40.9,64,78,82.1,68,138,206,74,28,36,15,52,242
+Kasey Neubert, San Diego (WCC),Senior,73,Forward,ncaaw.p.61360,San Diego,26,835,93,208,44.7,8,18,44.4,68,95,71.6,91,159,250,43,41,35,5,51,262
+Teneisia Brown, FDU (NEC),Senior,74,Forward,ncaaw.p.65281,FDU,29,785,143,302,47.4,0,0,,63,102,61.8,89,140,229,28,71,29,20,87,349
+Uju Ezeudu, FGCU (ASUN),Senior,72,Forward,ncaaw.p.61557,Fla Gulf Coast,30,778,141,305,46.2,39,138,28.3,82,102,80.4,69,155,224,36,49,47,17,77,403
+Madison Adamson, Charleston So. (Big South),Junior,72,Forward,ncaaw.p.66698,Charleston Sou.,30,1003,84,211,39.8,13,47,27.7,41,62,66.1,69,179,248,64,70,32,15,75,222
+Graceann Bennett, Georgetown (Big East),Senior,75,Forward,ncaaw.p.61392,Georgetown,31,800,125,242,51.7,6,17,35.3,41,60,68.3,68,154,222,47,73,21,22,88,297
+Alancia Ramsey, Coastal Carolina (Sun Belt),Freshman,72,Forward,ncaaw.p.113049,Coastal Car.,33,811,104,236,44.1,0,0,,102,153,66.7,119,128,247,25,63,23,13,76,310
+Timea Gardiner, Oregon St. (Pac-12),Sophomore,75,Forward,ncaaw.p.71016,UCLA,31,810,121,277,43.7,60,148,40.5,44,49,89.8,24,183,207,40,46,6,11,40,346
+Irene Murua, Detroit Mercy (Horizon),Senior,73,Forward,ncaaw.p.64156,Detroit,33,1037,143,279,51.3,2,8,25,80,109,73.4,86,158,244,50,70,26,16,66,368
+Mayowa Taiwo, George Washington (Atlantic 10),Senior,72,Forward,ncaaw.p.56746,Geo. Wash.,31,898,69,159,43.4,0,1,0,27,52,51.9,98,145,243,55,49,50,6,66,165
+Nakia Cheatham, Alcorn (SWAC),Senior,72,Forward,ncaaw.p.71223,Alcorn St.,29,902,105,268,39.2,21,73,28.8,50,79,63.3,72,146,218,26,75,39,15,72,281
+Isabella Hunt, Mount St. Mary's (MAAC),Senior,71,Forward,ncaaw.p.64635,E. Tennessee St.,29,906,101,219,46.1,1,10,10,53,70,75.7,56,170,226,72,73,46,7,86,256
+Grace Boffeli, UNI (MVC),Junior,73,Forward,ncaaw.p.64701,Northern Iowa,23,576,136,284,47.9,8,28,28.6,71,110,64.5,54,150,204,38,53,11,10,63,351
+Nila Blackford, Xavier (Big East),Senior,74,Forward,ncaaw.p.61103,Xavier,23,662,87,185,47,1,4,25,31,54,57.4,65,122,187,26,75,21,20,48,206
+Erin Wilson, UTEP (CUSA),Senior,70,Guard,ncaaw.p.57597,UTEP,28,864,119,244,48.8,3,23,13,95,123,77.2,87,139,226,28,43,42,2,54,336
+Taylor Langan, Rider (MAAC),Senior,70,Guard,ncaaw.p.100955,Rider,27,887,142,331,42.9,14,45,31.1,76,115,66.1,47,174,221,50,86,31,16,71,374
+Fatmata Janneh, Saint Peter's (MAAC),Freshman,73,Forward,ncaaw.p.112927,St. Peter's,28,802,113,312,36.2,25,87,28.7,54,84,64.3,47,175,222,28,125,44,15,100,305
+Saniyah Craig, Jacksonville (ASUN),Freshman,73,Forward,ncaaw.p.113151,Jacksonville,27,737,91,199,45.7,3,25,12,87,132,65.9,76,137,213,19,87,22,10,79,272
+Kayanna Spriggs, CSUN (Big West),Junior,74,Forward,ncaaw.p.67782,UC San Diego,30,844,102,250,40.8,1,2,50,79,144,54.9,87,145,232,37,81,40,22,89,284
+Jane Nwaba, Pepperdine (WCC),Senior,70,Forward,ncaaw.p.65017,Vanderbilt,30,934,131,314,41.7,12,54,22.2,47,84,56,79,149,228,84,122,39,19,74,321
+Janiah Barker, Texas A&M (SEC),Sophomore,76,Forward,ncaaw.p.71632,UCLA,29,767,144,298,48.3,21,63,33.3,45,72,62.5,73,149,222,40,78,37,19,74,354
+Catie Cunningham, Marist (MAAC),Junior,71,Guard,ncaaw.p.67439,Marist,29,840,61,160,38.1,7,29,24.1,45,64,70.3,78,143,221,40,41,34,9,63,174
+Maggie Hartwig, Evansville (MVC),Freshman,73,Forward,ncaaw.p.112762,Evansville,30,871,121,319,37.9,28,104,26.9,71,91,78,56,171,227,28,84,17,20,88,341
+N'Denasija Collins, Houston Christian (Southland),Senior,72,Forward,ncaaw.p.60856,Houston Christian,28,929,140,323,43.3,16,50,32,85,109,78,36,173,209,61,99,36,9,60,381
+Emma Broermann, North Florida (ASUN),Senior,75,Forward,ncaaw.p.60680,North Florida,30,793,108,196,55.1,5,17,29.4,35,63,55.6,88,135,223,20,53,18,14,107,256
+Alexis Mark, LMU (CA) (WCC),Senior,72,Forward,ncaaw.p.64525,Portland,30,854,124,265,46.8,24,60,40,85,121,70.2,82,141,223,53,84,39,5,66,357
+McKenzie Stewart, Delaware St. (MEAC),Freshman,72,Forward,ncaaw.p.113258,Delaware St.,26,675,26,70,37.1,0,1,0,10,20,50,72,121,193,19,38,46,14,59,62
+Bridget Dunn, Kent St. (MAC),Junior,75,Forward,ncaaw.p.66773,Kent St.,28,803,65,172,37.8,45,136,33.1,8,12,66.7,25,162,187,28,16,16,9,36,183
+Taniya Hanner, Radford (Big South),Senior,73,Forward,ncaaw.p.60312,Radford,31,887,123,273,45.1,7,26,26.9,49,69,71,97,130,227,20,62,31,25,78,302
+Ava Uhrich, Southern Utah (WAC),Freshman,72,Forward,ncaaw.p.115529,Southern Utah,29,877,151,323,46.7,29,84,34.5,52,76,68.4,65,149,214,47,55,22,19,76,383
+Nyla McGill, Yale (Ivy League),Junior,68,Guard,ncaaw.p.67510,Yale,26,732,83,193,43,1,6,16.7,53,82,64.6,72,117,189,50,55,48,8,78,220
+Brooke Anya, Hofstra (CAA),Senior,72,Forward,ncaaw.p.64080,Chattanooga,29,749,77,191,40.3,0,1,0,74,124,59.7,107,96,203,35,71,41,21,80,228
+Destiny Terrell, UIW (Southland),Senior,69,Guard,ncaaw.p.64843,Texas St.,29,759,84,201,41.8,2,10,20,80,113,70.8,58,152,210,35,81,32,14,75,250
+Kya Smith, Army West Point (Patriot),Freshman,73,Forward,ncaaw.p.113032,Army,27,737,84,187,44.9,1,7,14.3,84,111,75.7,78,122,200,16,56,26,13,63,253
+Wynter Rogers, Arkansas St. (Sun Belt),Junior,71,Guard,ncaaw.p.67359,Arkansas St.,29,772,67,160,41.9,20,62,32.3,26,47,55.3,61,148,209,43,50,23,12,52,180
+Chyna Cornwell, Rutgers (Big Ten),Senior,75,Forward,ncaaw.p.64396,Rutgers,32,743,90,169,53.3,0,0,,55,93,59.1,80,150,230,17,66,19,18,65,235
+Darianna Littlepage-Buggs, Baylor (Big 12),Sophomore,73,Forward,ncaaw.p.70987,Baylor,30,828,133,255,52.2,0,6,0,49,64,76.6,75,141,216,44,61,20,9,53,315
+Anna Blount, UMBC (America East),Senior,73,Forward,ncaaw.p.61169,UMBC,29,837,143,343,41.7,24,75,32,74,109,67.9,47,160,207,37,95,37,14,99,384
+Stefanie Kulesza, Massachusetts (Atlantic 10),Junior,71,Guard,ncaaw.p.66525,UMass,32,1002,145,309,46.9,28,83,33.7,40,54,74.1,65,163,228,47,71,61,12,103,358
+Anijah Grant, Grambling (SWAC),Senior,74,Forward,ncaaw.p.60728,Grambling St.,29,661,108,215,50.2,0,2,0,40,63,63.5,93,115,208,16,53,31,24,82,256
+Olivia Summiel, Virginia Tech (ACC),Senior,74,Forward,ncaaw.p.60521,Virginia Tech,31,662,41,89,46.1,18,53,34,14,17,82.4,61,155,216,31,37,7,17,68,114
+Jade Blagrove, Manhattan (MAAC),Senior,74,Forward,ncaaw.p.64088,St. John's,29,860,82,203,40.4,13,47,27.7,65,84,77.4,56,152,208,68,73,22,20,90,242
+Kennedy Taylor, Missouri St. (MVC),Junior,75,Forward,ncaaw.p.66701,Kansas St.,29,592,121,236,51.3,0,0,,66,103,64.1,79,119,198,41,50,16,27,82,308
+Paige Allen, A&M-Corpus Christi (Southland),Senior,68,Guard,ncaaw.p.64888,Texas A&M-Corpus Christi,29,843,103,248,41.5,12,45,26.7,62,95,65.3,62,137,199,52,51,55,8,71,280
+Frannie Hottinger, Marquette (Big East),Senior,73,Forward,ncaaw.p.60990,Marquette,29,750,91,195,46.7,4,17,23.5,30,41,73.2,67,145,212,50,56,20,11,63,216
+Kacey Spink, Idaho St. (Big Sky),Sophomore,69,Guard,ncaaw.p.70706,Idaho St.,30,935,91,248,36.7,14,41,34.1,45,61,73.8,85,123,208,89,86,62,14,91,241
+Kseniia Kozlova, James Madison (Sun Belt),Senior,75,Center,ncaaw.p.64131,James Madison,24,526,118,194,60.8,0,0,,48,84,57.1,74,97,171,19,51,8,8,55,284
+Simone Cunningham, Old Dominion (Sun Belt),Junior,70,Guard,ncaaw.p.113163,Old Dominion,30,591,84,163,51.5,0,0,,39,69,56.5,87,123,210,12,60,20,21,93,207
+Mya Glanton, Indiana St. (MVC),Senior,72,Forward,ncaaw.p.60708,Saint Louis,30,823,135,270,50,1,11,9.1,48,70,68.6,98,110,208,23,60,26,20,105,319
+Otaifo Esenabhalu, Longwood (Big South),Freshman,74,Forward,ncaaw.p.113170,Longwood,30,547,60,142,42.3,0,0,,27,45,60,79,128,207,10,59,23,13,78,147
+Malia Fisher, Rice (AAC),Junior,74,Forward,ncaaw.p.67062,Rice,23,671,110,251,43.8,10,50,20,67,82,81.7,43,114,157,36,63,39,20,66,297
+Evangelia Paulk, Wofford (SoCon),Freshman,72,Guard,ncaaw.p.113077,Wofford,30,892,92,291,31.6,26,98,26.5,45,73,61.6,70,136,206,34,66,46,17,83,255
+McKinley Brooks-Sumpter, UNC Asheville (Big South),Senior,68,Guard,ncaaw.p.61116,Charleston,28,857,158,396,39.9,6,30,20,86,111,77.5,42,150,192,77,85,29,9,58,408
+Isabell West, USC Upstate (Big South),Senior,73,Guard,ncaaw.p.100107,S.Car. Upstate,31,726,120,238,50.4,6,11,54.5,72,96,75,95,114,209,25,56,28,20,59,318
+Kennedy Johnson, Idaho (Big Sky),Sophomore,71,Guard,ncaaw.p.68177,St. Mary's,30,868,159,358,44.4,28,79,35.4,64,76,84.2,48,156,204,49,58,46,26,65,410
+Ashanti Barnes, James Madison (Sun Belt),Junior,74,Forward,ncaaw.p.100604,James Madison,31,616,100,226,44.2,15,50,30,29,44,65.9,61,137,198,29,44,22,11,89,244
+Sydney Woodley, Long Beach St. (Big West),Sophomore,68,Guard,ncaaw.p.67781,West Virginia,28,817,122,263,46.4,16,56,28.6,38,53,71.7,57,75,132,52,66,93,1,66,298
+Aaliyah Parker, Niagara (MAAC),Junior,69,Guard,ncaaw.p.66967,Niagara,25,573,116,252,46,9,35,25.7,60,78,76.9,48,95,143,48,54,82,12,81,301
+Kaye Clark, Old Dominion (Sun Belt),Senior,67,Guard,ncaaw.p.67269,Old Dominion,30,859,102,266,38.3,16,74,21.6,43,54,79.6,33,70,103,68,71,88,5,87,263
+Sh'Diamond McKnight, Mississippi Val. (SWAC),Junior,67,Guard,ncaaw.p.113297,Miss. Valley St.,31,818,141,422,33.4,30,133,22.6,102,152,67.1,39,79,118,99,109,88,7,95,414
+Sydney Watkins, UMass Lowell (America East),Junior,68,Guard,ncaaw.p.64077,Mass-Lowell,27,855,78,185,42.2,0,5,0,53,92,57.6,35,116,151,80,78,76,10,52,209
+Kiki McIntyre, Longwood (Big South),Senior,67,Guard,ncaaw.p.113172,Longwood,30,740,70,196,35.7,17,56,30.4,41,57,71.9,15,70,85,78,57,83,4,62,198
+Deja Lee, UC Irvine (Big West),Junior,69,Guard,ncaaw.p.67396,UC Irvine,29,881,143,333,42.9,51,148,34.5,62,77,80.5,37,67,104,67,59,74,5,89,399
+Katlyn Gilbert, DePaul (Big East),Senior,70,Guard,ncaaw.p.57641,DePaul,32,902,111,293,37.9,24,91,26.4,48,65,73.8,39,128,167,91,82,80,15,111,294
+Rakisha Ballinger, Wagner (NEC),Junior,68,Guard,ncaaw.p.67719,Jackson St.,27,796,93,242,38.4,2,13,15.4,46,65,70.8,34,73,107,34,87,67,14,67,234
+Janelle Brown, Fairfield (MAAC),Senior,66,Guard,ncaaw.p.64653,Fairfield,29,713,146,250,58.4,36,76,47.4,57,67,85.1,45,79,124,105,96,72,2,93,385
+Ashley Austin, LIU (NEC),Senior,66,Guard,ncaaw.p.57981,LIU Brooklyn,26,837,151,360,41.9,38,134,28.4,58,87,66.7,23,75,98,91,97,64,7,37,398
+Alexis Calderon, New Orleans (Southland),Junior,64,Guard,ncaaw.p.113105,New Orleans,29,885,100,278,36,24,93,25.8,39,52,75,20,84,104,75,111,72,5,82,263
+En'Dya Buford, Old Dominion (Sun Belt),Senior,67,Guard,ncaaw.p.100915,Old Dominion,29,830,114,303,37.6,40,130,30.8,92,119,77.3,54,82,136,70,68,69,8,73,360
+Kyah Watson, West Virginia (Big 12),Junior,70,Guard,ncaaw.p.63997,West Virginia,31,919,102,206,49.5,16,52,30.8,30,43,69.8,59,141,200,52,57,74,17,63,250
+Aicha Coulibaly, Texas A&M (SEC),Senior,72,Guard,ncaaw.p.64229,Texas A&M,31,914,162,313,51.8,9,41,22,77,103,74.8,59,112,171,68,59,73,13,62,410
+Lauren Fields, West Virginia (Big 12),Senior,69,Guard,ncaaw.p.60375,West Virginia,31,970,106,289,36.7,67,207,32.4,18,49,36.7,16,76,92,62,35,74,20,53,297
+Chardonnay Hartley, Niagara (MAAC),Sophomore,63,Guard,ncaaw.p.70750,Ut. Tech,29,783,76,283,26.9,27,82,32.9,93,131,71,23,42,65,99,94,64,1,57,272
+Emme Shearer, Portland (WCC),Senior,72,Guard,ncaaw.p.65057,Portland,31,750,143,291,49.1,28,92,30.4,67,97,69.1,36,85,121,63,65,73,14,87,381
+Sedayjha Payne, Morgan St. (MEAC),Senior,68,Guard,ncaaw.p.113276,Morgan St.,29,634,80,202,39.6,0,0,,26,50,52,66,73,139,24,53,67,7,58,186
+Ania McNicholas, Cal Poly (Big West),Senior,67,Guard,ncaaw.p.60682,Cal Poly,29,821,70,220,31.8,28,85,32.9,43,54,79.6,16,82,98,75,75,65,10,72,211
+Taylor Britt, Air Force (Mountain West),Senior,67,Guard,ncaaw.p.65119,Air Force,27,514,38,119,31.9,10,52,19.2,7,12,58.3,18,69,87,60,46,59,1,71,93
+Cori Lard, Miami (OH) (MAC),Junior,69,Guard,ncaaw.p.112706,Miami (OH),28,782,67,188,35.6,22,69,31.9,29,38,76.3,12,56,68,80,96,61,11,57,185
+D'Shantae Edwards, Bethune-Cookman (SWAC),Sophomore,67,Guard,ncaaw.p.71810,Bethune-Cookman,31,809,80,212,37.7,4,16,25,90,153,58.8,47,63,110,52,86,67,1,87,254
+Kennedy Calhoun, Saint Louis (Atlantic 10),Junior,65,Guard,ncaaw.p.67825,Saint Louis,34,978,67,152,44.1,9,45,20,35,42,83.3,20,67,87,109,97,68,2,121,178
+Ivy Bales, American (Patriot),Senior,70,Guard,ncaaw.p.63985,American,28,838,102,226,45.1,10,31,32.3,34,46,73.9,32,110,142,101,93,60,11,63,248
+Jada Leonard, Saint Peter's (MAAC),Sophomore,68,Guard,ncaaw.p.71071,Bryant,27,899,106,289,36.7,30,94,31.9,83,108,76.9,31,71,102,59,99,56,6,57,325
+Mireia Aguado, A&M-Corpus Christi (Southland),Senior,69,Guard,ncaaw.p.64892,Texas A&M-Corpus Christi,29,724,119,235,50.6,7,29,24.1,67,92,72.8,29,88,117,77,62,63,8,56,312
+Laylay Fantroy, Ohio (MAC),Freshman,71,Guard,ncaaw.p.112728,Ohio,26,611,85,193,44,3,42,7.1,62,94,66,41,67,108,32,56,54,6,62,235
+Aniyah Augmon, New Mexico (Mountain West),Junior,68,Guard,ncaaw.p.66937,New Mexico,29,971,135,330,40.9,24,87,27.6,87,127,68.5,26,143,169,107,117,61,4,50,381
+Kylee Mabry, Utah Valley (WAC),Sophomore,71,Guard,ncaaw.p.71439,Utah Valley,28,694,77,203,37.9,20,64,31.3,51,70,72.9,20,64,84,35,61,58,6,61,225
+Clara Gomez, New Hampshire (America East),Junior,73,Guard,ncaaw.p.66657,New Hampshire,29,776,84,234,35.9,1,18,5.6,9,16,56.3,54,119,173,54,57,60,15,81,178
+Madison Smith, Air Force (Mountain West),Junior,68,Guard,ncaaw.p.67818,Air Force,31,854,132,319,41.4,28,96,29.2,66,80,82.5,37,126,163,61,84,65,3,87,358
+Casey Valenti-Paea, Long Beach St. (Big West),Junior,69,Guard,ncaaw.p.66482,Virginia,30,801,97,228,42.5,31,81,38.3,54,64,84.4,34,77,111,70,70,65,9,74,279
+Jada Lee, Mount St. Mary's (MAAC),Senior,65,Guard,ncaaw.p.64654,Robert Morris,28,872,96,256,37.5,16,73,21.9,50,63,79.4,35,83,118,65,83,58,6,58,258
+Carmen Villalobos, Cleveland St. (Horizon),Senior,73,Guard,ncaaw.p.61574,Cleveland St.,31,979,56,135,41.5,20,57,35.1,27,50,54,55,163,218,65,45,67,22,64,159
+Jaelyn Glenn, Kansas St. (Big 12),Junior,73,Guard,ncaaw.p.66863,Kansas St.,31,1003,86,215,40,41,124,33.1,11,16,68.8,17,121,138,64,48,63,14,70,224
+Esmery Martinez, Arizona (Pac-12),Senior,74,Forward,ncaaw.p.60393,Arizona,31,853,128,303,42.2,15,65,23.1,73,92,79.3,69,125,194,72,78,56,14,93,344
+Audrey Roden, Nevada (Mountain West),Junior,69,Guard,ncaaw.p.66931,Nevada,31,752,138,346,39.9,19,75,25.3,54,81,66.7,37,61,98,63,72,62,9,92,349
+Leia Hanafin, Saint Mary's (CA) (WCC),Senior,70,Guard,ncaaw.p.64753,St. Mary's,31,745,39,88,44.3,14,43,32.6,6,13,46.2,14,90,104,49,32,62,12,57,98
+Trinity Hardy, Army West Point (Patriot),Junior,68,Guard,ncaaw.p.68094,Army,28,779,114,295,38.6,5,33,15.2,89,116,76.7,47,110,157,66,63,54,5,58,322
+Sanaa' St. Andre, Tennessee St. (OVC),Senior,68,Guard,ncaaw.p.64758,Tennessee St.,28,795,168,420,40,21,88,23.9,61,81,75.3,17,52,69,45,89,56,2,103,418
+Malea Brown, Longwood (Big South),Junior,65,Guard,ncaaw.p.113166,Longwood,30,780,102,247,41.3,21,76,27.6,24,35,68.6,29,96,125,43,51,59,2,26,249
+Kayla White, Bethune-Cookman (SWAC),Junior,66,Forward,ncaaw.p.68145,Bethune-Cookman,31,726,105,288,36.5,17,76,22.4,32,45,71.1,16,90,106,61,72,60,1,50,259
+Nikki Tom, UC Irvine (Big West),Junior,69,Guard,ncaaw.p.67394,UC Irvine,29,946,62,208,29.8,28,122,23,49,57,86,41,66,107,52,34,56,8,43,201
+Jeriah Warren, Florida (SEC),Junior,72,Guard,ncaaw.p.66746,Florida,31,779,57,124,46,15,38,39.5,18,27,66.7,47,113,160,29,26,61,8,75,147
+Dymonique Maxie, Nevada (Mountain West),Freshman,68,Guard,ncaaw.p.112560,Nevada,30,722,59,193,30.6,2,23,8.7,26,46,56.5,29,56,85,71,66,59,11,53,146
+Ahniysha Jackson, Siena (MAAC),Senior,67,Guard,ncaaw.p.63920,Siena,27,896,120,335,35.8,60,180,33.3,30,51,58.8,22,39,61,50,57,49,3,78,330
+DeArica Pryor, New Orleans (Southland),Senior,67,Guard,ncaaw.p.61484,New Orleans,27,901,129,338,38.2,47,111,42.3,80,101,79.2,15,114,129,54,78,52,4,62,385
+Imani Smith, Charlotte (AAC),Junior,68,Guard,ncaaw.p.112413,Charlotte,24,601,31,121,25.6,17,74,23,46,65,70.8,24,83,107,46,30,47,14,47,125
+Sana'a Garrett, Jacksonville (ASUN),Freshman,67,Guard,ncaaw.p.113147,Jacksonville,30,792,55,121,45.5,16,31,51.6,42,54,77.8,21,66,87,50,87,56,0,92,168
+Kamryn Jones, Houston (Big 12),Senior,73,Forward,ncaaw.p.64225,Louisiana,30,634,55,123,44.7,4,15,26.7,28,42,66.7,57,66,123,23,40,56,20,87,142
+Alyssa Moreland, Brown (Ivy League),Sophomore,71,Forward,ncaaw.p.71706,Brown,22,576,49,138,35.5,6,37,16.2,22,41,53.7,40,104,144,42,41,41,15,62,126
+Georgia Woolley, Syracuse (ACC),Junior,72,Guard,ncaaw.p.66950,Syracuse,27,886,135,346,39,33,117,28.2,72,85,84.7,39,89,128,82,91,52,11,62,375
+Makayla Jackson, UC Riverside (Big West),Sophomore,67,Guard,ncaaw.p.113372,UC Riverside,30,959,95,234,40.6,36,106,34,40,59,67.8,35,48,83,36,30,52,0,46,266
+Deajanae Harvey, Fresno St. (Mountain West),Senior,66,Guard,ncaaw.p.112527,Fresno St.,27,535,96,234,41,22,61,36.1,24,34,70.6,13,44,57,48,50,50,3,37,238
+Jayda McNabb, Air Force (Mountain West),Freshman,70,Guard,ncaaw.p.112480,Air Force,31,874,63,168,37.5,18,46,39.1,48,75,64,121,74,195,54,48,56,20,84,192
+Taylor McAulay, Drake (MVC),Senior,71,Guard,ncaaw.p.60423,Drake,31,786,114,241,47.3,35,114,30.7,37,48,77.1,22,73,95,65,63,56,17,64,300
+Katelynn Limardo, Montana St. (Big Sky),Senior,74,Forward,ncaaw.p.64573,Montana St.,27,822,89,251,35.5,44,130,33.8,78,100,78,40,135,175,52,64,46,12,46,300
+Emily Carver, App State (Sun Belt),Junior,70,Guard,ncaaw.p.66617,Appalachian St.,24,723,103,278,37.1,55,168,32.7,64,114,56.1,47,58,105,44,52,43,4,75,325
+CC Mays, Marshall (Sun Belt),Sophomore,68,Guard,ncaaw.p.65127,Marshall,30,527,65,148,43.9,16,58,27.6,31,40,77.5,46,67,113,37,52,55,1,82,177
+Teresa Faustino, Western Ky. (CUSA),Senior,69,Guard,ncaaw.p.65072,W. Kentucky,31,908,97,259,37.5,35,120,29.2,57,85,67.1,29,64,93,82,46,57,1,43,286
+Maddy Skorupski, Oakland (Horizon),Sophomore,68,Guard,ncaaw.p.70821,Oakland,27,580,85,187,45.5,24,68,35.3,56,66,84.8,16,47,63,53,44,48,4,41,250
+Gabi Fields, Northern Colo. (Big Sky),Sophomore,65,Guard,ncaaw.p.71666,Northern Colorado,29,789,56,154,36.4,21,60,35,43,59,72.9,22,56,78,79,66,51,1,53,176
+Kadie Deaton, Pacific (WCC),Senior,71,Guard,ncaaw.p.61185,Pacific,27,737,100,259,38.6,25,77,32.5,75,97,77.3,32,72,104,73,87,45,11,72,300
+Jada Ryce, Winthrop (Big South),Junior,65,Guard,ncaaw.p.66693,Winthrop,30,954,115,278,41.4,24,75,32,79,102,77.5,35,63,98,71,78,53,1,67,333
+Amelia Wood, Sacred Heart (NEC),Sophomore,72,Guard,ncaaw.p.71045,Sacred Heart,30,815,115,313,36.7,38,161,23.6,47,68,69.1,31,128,159,35,64,52,8,72,315
+Taylor Bell, Southeastern La. (Southland),Junior,71,Guard,ncaaw.p.67379,SE Louisiana,27,622,96,269,35.7,4,25,16,64,104,61.5,38,103,141,43,72,48,18,86,260
+Teya Sidberry, Boston College (ACC),Sophomore,73,Forward,ncaaw.p.71438,Boston Coll.,33,916,175,385,45.5,23,86,26.7,77,98,78.6,89,130,219,41,62,58,22,67,450
+Shayla Sellers, Purdue Fort Wayne (Horizon),Senior,72,Guard,ncaaw.p.60761,PFW,32,976,121,293,41.3,62,154,40.3,56,72,77.8,38,105,143,50,52,56,15,62,360
+Jordan Olivares, CSU Bakersfield (Big West),Senior,68,Guard,ncaaw.p.61241,CSU Bakersfield,28,857,118,327,36.1,31,110,28.2,99,133,74.4,39,116,155,77,62,49,7,75,366
+Soufia Inoussa, LMU (CA) (WCC),Senior,67,Guard,ncaaw.p.61272,Loyola Marymount,30,821,67,195,34.4,21,73,28.8,17,24,70.8,29,60,89,54,50,52,4,54,172
+Cassidy Geddes, William & Mary (CAA),Freshman,67,Guard,ncaaw.p.112228,William & Mary,28,788,91,234,38.9,39,125,31.2,47,65,72.3,8,44,52,57,74,48,10,53,268
+Paige Lyons, Wagner (NEC),Junior,67,Guard,ncaaw.p.68106,E. Tennessee St.,25,589,62,168,36.9,12,46,26.1,36,59,61,11,43,54,32,53,43,4,60,172
+Kyla Bryant, N.C. Central (MEAC),Freshman,67,Guard,ncaaw.p.113270,N.C. Central,28,971,122,339,36,31,113,27.4,63,93,67.7,23,114,137,66,92,51,5,56,338
+Catherine Alben, Charleston So. (Big South),Sophomore,67,Guard,ncaaw.p.70656,Charleston Sou.,30,994,154,425,36.2,46,142,32.4,64,86,74.4,25,92,117,58,102,51,2,82,418
+Saniya Jackson, Valparaiso (MVC),Freshman,72,Forward,ncaaw.p.112911,Valparaiso,29,746,99,212,46.7,32,102,31.4,38,67,56.7,41,58,99,30,43,50,13,105,268
+Madison St. Rose, Princeton (Ivy League),Sophomore,70,Guard,ncaaw.p.71832,Princeton,27,826,152,354,42.9,42,121,34.7,38,49,77.6,17,51,68,37,46,44,6,52,384
+Jelissa Reese, Ark.-Pine Bluff (SWAC),Junior,69,Guard,ncaaw.p.64035,Prairie View A&M,26,704,95,204,46.6,0,7,0,37,54,68.5,59,58,117,40,58,44,3,58,227
+Alex Giannaros, Boston U. (Patriot),Junior,65,Guard,ncaaw.p.66649,Boston U.,29,963,144,319,45.1,67,152,44.1,55,75,73.3,13,70,83,79,78,49,2,74,410
+Josie Gilvin, Western Ky. (CUSA),Sophomore,72,Forward,ncaaw.p.71484,W. Kentucky,31,666,58,158,36.7,20,85,23.5,13,17,76.5,25,58,83,32,31,53,14,64,149
+Taylor Thierry, Ohio St. (Big Ten),Junior,72,Guard,ncaaw.p.67023,Ohio St.,30,816,124,202,61.4,13,28,46.4,82,107,76.6,67,95,162,47,30,52,16,68,343
+Meghan Weinrich, Oral Roberts (Summit League),Junior,70,Guard,ncaaw.p.112816,Oral Roberts,29,660,50,131,38.2,4,27,14.8,18,26,69.2,38,101,139,47,34,48,12,68,122
+Tayla Dalton, Saint Mary's (CA) (WCC),Senior,69,Guard,ncaaw.p.64761,Gonzaga,28,935,101,217,46.5,18,50,36,64,82,78,26,37,63,71,58,47,7,48,284
+Kiley Bess, Indiana St. (MVC),Senior,72,Guard,ncaaw.p.64713,Missouri St.,29,942,106,263,40.3,33,106,31.1,77,102,75.5,38,83,121,54,64,46,5,51,322
+Jocelyn Tate, Michigan St. (Big Ten),Junior,71,Forward,ncaaw.p.67650,Michigan St.,30,767,84,196,42.9,6,28,21.4,38,71,53.5,40,90,130,54,53,50,12,92,212
+Natalie Picton, Montana St. (Big Sky),Freshman,65,Guard,ncaaw.p.112319,Montana St.,31,871,81,248,32.7,28,105,26.7,41,50,82,18,50,68,66,86,51,1,67,231
+Tiarra East, Temple (AAC),Junior,70,Guard,ncaaw.p.67089,Temple,28,857,137,358,38.3,22,72,30.6,71,94,75.5,32,110,142,44,62,47,8,76,367
+Payton Hull, Abilene Christian (WAC),Freshman,71,Guard,ncaaw.p.112709,Abilene Christian,29,837,155,354,43.8,79,222,35.6,55,73,75.3,33,67,100,59,87,47,8,71,444
+Ja'Leah Williams, Miami (FL) (ACC),Junior,70,Guard,ncaaw.p.66906,Louisville,30,837,83,195,42.6,17,53,32.1,29,44,65.9,37,99,136,82,71,50,5,59,212
+MiLaysia Fulwiley, South Carolina (SEC),Freshman,70,Guard,ncaaw.p.112133,South Carolina,31,578,127,292,43.5,31,103,30.1,70,90,77.8,20,72,92,70,54,54,22,70,355
+Tymberlin Criswell, A&M-Corpus Christi (Southland),Junior,68,Guard,ncaaw.p.67083,Texas A&M-Corpus Christi,29,541,54,146,37,10,52,19.2,40,60,66.7,4,54,58,31,56,51,8,56,158
+Emy Hayford, Fordham (Atlantic 10),Senior,68,Guard,ncaaw.p.60465,Fordham,29,848,148,350,42.3,31,102,30.4,41,66,62.1,22,65,87,58,83,48,2,76,368
+Alexis Johnson, Oakland (Horizon),Senior,70,Forward,ncaaw.p.61231,Oakland,29,758,94,224,42,34,96,35.4,11,19,57.9,14,82,96,26,57,48,9,92,233
+Ashley Hiraki, Santa Clara (WCC),Senior,67,Guard,ncaaw.p.65208,Cal Poly,31,801,54,173,31.2,23,103,22.3,26,31,83.9,11,68,79,65,47,53,2,49,157
+Mar'shaun Bostic, Auburn (SEC),Junior,68,Guard,ncaaw.p.66585,Auburn,30,539,59,143,41.3,0,5,0,56,85,65.9,9,45,54,75,67,49,5,60,174
+Darian Burgin, Alabama A&M (SWAC),Senior,67,Guard,ncaaw.p.65199,Alabama A&M,30,991,95,248,38.3,22,80,27.5,59,74,79.7,26,86,112,78,71,51,6,55,271
+Britiya Curtis, Nicholls (Southland),Freshman,67,Guard,ncaaw.p.113184,Nicholls,30,901,121,295,41,48,129,37.2,33,44,75,18,75,93,49,55,49,3,40,323
+Mara Neira, Presbyterian (Big South),Junior,67,Guard,ncaaw.p.71093,Appalachian St.,30,824,129,356,36.2,64,198,32.3,17,23,73.9,11,125,136,56,72,51,1,63,339
+Morgan Sharps, Bowling Green (MAC),Senior,70,Guard,ncaaw.p.60440,Bowling Green,25,816,146,365,40,81,210,38.6,21,27,77.8,3,67,70,58,47,27,2,34,394
+Alexis Callins, North Ala. (ASUN),Senior,68,Guard,ncaaw.p.64760,North Alabama,30,850,155,364,42.6,88,241,36.5,35,45,77.8,23,41,64,48,86,36,12,71,433
+Emma Von Essen, Hofstra (CAA),Sophomore,69,Guard,ncaaw.p.70718,Hofstra,29,815,129,335,38.5,81,223,36.3,13,17,76.5,17,71,88,33,77,18,1,60,352
+Moira Joiner, Michigan St. (Big Ten),Senior,70,Guard,ncaaw.p.60793,Michigan St.,30,940,162,343,47.2,76,176,43.2,42,48,87.5,55,89,144,81,45,38,6,59,442
+Londynn Jones, UCLA (Pac-12),Sophomore,64,Guard,ncaaw.p.71187,UCLA,31,859,124,325,38.2,80,211,37.9,48,59,81.4,16,39,55,62,63,33,5,58,376
+Sophie Phillips, Rhode Island (Atlantic 10),Junior,72,Guard,ncaaw.p.67060,Rhode Island,34,1072,123,326,37.7,86,253,34,31,44,70.5,6,38,44,49,40,32,15,29,363
+Kailey Woolston, BYU (Big 12),Freshman,71,Guard,ncaaw.p.112274,BYU,32,1062,144,307,46.9,81,174,46.6,56,67,83.6,30,76,106,76,73,23,6,75,425
+Nya Robertson, George Washington (Atlantic 10),Sophomore,67,Guard,ncaaw.p.70676,SMU,28,862,149,403,37,70,205,34.1,85,112,75.9,13,65,78,40,95,15,7,55,453
+Madelyn Bischoff, Ball St. (MAC),Junior,69,Guard,ncaaw.p.66600,Ball St.,30,881,112,278,40.3,77,191,40.3,58,67,86.6,11,60,71,37,36,20,6,38,359
+Mia Mancini, Bryant (America East),Freshman,66,Guard,ncaaw.p.112361,Bryant,30,954,129,387,33.3,74,202,36.6,67,98,68.4,17,81,98,80,91,22,3,62,399
+Brinae Alexander, Maryland (Big Ten),Senior,70,Forward,ncaaw.p.57399,Maryland,32,821,103,262,39.3,79,202,39.1,12,17,70.6,10,82,92,34,37,40,2,66,297
+Ella Stemmer, Lehigh (Patriot),Junior,70,Guard,ncaaw.p.66791,Lehigh,29,844,121,326,37.1,70,214,32.7,84,97,86.6,31,60,91,49,60,30,5,43,396
+Frida Formann, Colorado (Pac-12),Senior,70,Guard,ncaaw.p.64509,Colorado,31,863,132,296,44.6,79,185,42.7,58,63,92.1,13,48,61,67,61,33,9,52,401
+Vittoria Blasigh, South Fla. (AAC),Freshman,69,Guard,ncaaw.p.112471,South Florida,31,908,142,386,36.8,72,215,33.5,58,67,86.6,18,60,78,61,71,20,5,71,414
+Rachel Kent, Butler (Big East),Senior,71,Guard,ncaaw.p.60725,Butler,30,1007,106,258,41.1,71,174,40.8,28,47,59.6,29,89,118,75,63,19,12,55,311
+Blythe Pearson, Lipscomb (ASUN),Senior,70,Guard,ncaaw.p.60599,Lipscomb,30,1002,113,331,34.1,69,215,32.1,51,64,79.7,26,141,167,42,55,44,20,81,346
+Micah Gray, Seton Hall (Big East),Sophomore,68,Guard,ncaaw.p.71637,Oklahoma St.,31,947,136,384,35.4,71,211,33.6,27,36,75,16,61,77,33,48,24,4,58,370
+Leia Beattie, Northern Ariz. (Big Sky),Junior,69,Guard,ncaaw.p.64576,Northern Arizona,31,866,126,295,42.7,68,162,42,42,52,80.8,42,109,151,84,41,39,7,84,362
+Emma Hess, Liberty (CUSA),Junior,71,Guard,ncaaw.p.66795,Liberty,31,974,143,346,41.3,72,184,39.1,51,65,78.5,34,94,128,62,67,26,14,70,409
+Sadie Stetson, Samford (SoCon),Senior,67,Guard,ncaaw.p.61131,Samford,30,981,94,240,39.2,67,164,40.9,6,8,75,16,69,85,38,38,44,4,51,261
+Sofie Lowis, SIUE (OVC),Junior,68,Guard,ncaaw.p.67079,SIU Edwardsville,31,915,122,340,35.9,69,209,33,48,59,81.4,18,81,99,69,63,32,7,62,361
+Hayley Frank, Missouri (SEC),Senior,73,Forward,ncaaw.p.61028,Missouri,27,886,154,347,44.4,60,161,37.3,74,80,92.5,29,143,172,53,57,17,14,88,442
+Tracey Bershers, UAB (AAC),Junior,74,Forward,ncaaw.p.67029,UAB,28,684,83,222,37.4,62,171,36.3,27,32,84.4,14,115,129,36,38,11,21,54,255
+Jo Raflo, Mount St. Mary's (MAAC),Junior,70,Guard,ncaaw.p.67488,Mount St. Mary's,29,924,125,372,33.6,61,184,33.2,35,52,67.3,7,88,95,42,51,33,23,49,346
+Maddie Walsh, UAB (AAC),Junior,74,Forward,ncaaw.p.64425,UAB,30,960,116,255,45.5,65,148,43.9,12,16,75,19,90,109,27,42,22,21,50,309
+Rusne Augustinaite, Georgia Tech (ACC),Freshman,72,Guard,ncaaw.p.112208,Georgia Tech,32,890,126,336,37.5,69,197,35,30,40,75,9,97,106,42,48,9,5,48,351
+Ivy Wolf, Dayton (Atlantic 10),Junior,68,Guard,ncaaw.p.67553,Dayton,29,971,123,335,36.7,62,173,35.8,36,38,94.7,14,70,84,99,91,29,4,73,344
+Shay Ciezki, Penn St. (Big Ten),Sophomore,67,Guard,ncaaw.p.71034,Indiana,31,815,133,312,42.6,71,187,38,44,49,89.8,15,56,71,77,66,33,2,56,381
+Kendall Holmes, South Dakota (Summit League),Junior,70,Guard,ncaaw.p.65181,Belmont,31,859,114,301,37.9,65,186,34.9,59,69,85.5,10,82,92,47,60,17,4,43,352
+Alexis Andrews, Col. of Charleston (CAA),Sophomore,68,Guard,ncaaw.p.70653,Charlotte,29,836,123,315,39,65,168,38.7,62,85,72.9,28,83,111,31,54,37,0,50,373
+Dena Jarrells, Youngstown St. (Horizon),Senior,67,Guard,ncaaw.p.60591,Youngstown St.,32,884,116,319,36.4,67,195,34.4,41,47,87.2,6,76,82,112,102,22,2,46,340
+Jewel Spear, Tennessee (SEC),Senior,70,Guard,ncaaw.p.64824,Tennessee,31,910,136,320,42.5,65,175,37.1,75,89,84.3,30,113,143,66,39,18,4,31,412
+Mariah Elohim, LIU (NEC),Sophomore,70,Guard,ncaaw.p.70898,Fresno St.,29,946,123,380,32.4,60,246,24.4,58,68,85.3,14,47,61,45,64,20,7,33,364
+Madison Layden, Purdue (Big Ten),Senior,73,Guard,ncaaw.p.64130,Purdue,30,883,95,240,39.6,60,152,39.5,39,48,81.3,9,89,98,49,44,32,18,66,289
+Cayla King, Virginia Tech (ACC),Senior,72,Guard,ncaaw.p.60504,Virginia Tech,31,936,71,232,30.6,65,207,31.4,11,16,68.8,31,65,96,73,29,23,12,89,218
+Emily Rodabaugh, Northern Ariz. (Big Sky),Senior,72,Guard,ncaaw.p.61154,Northern Arizona,30,941,112,287,39,68,183,37.2,51,62,82.3,11,153,164,66,33,41,21,48,343
+Bailey Tabeling, Ohio (MAC),Freshman,70,Guard,ncaaw.p.112718,Ohio,29,628,91,200,45.5,61,149,40.9,10,15,66.7,10,63,73,31,38,47,3,35,253
+Lauren Hansen, Michigan (Big Ten),Senior,68,Guard,ncaaw.p.60955,Michigan,33,932,137,323,42.4,66,176,37.5,53,62,85.5,9,65,74,74,74,42,3,50,393
+Deja Williams, Mercer (SoCon),Senior,66,Guard,ncaaw.p.60594,Mercer,32,1047,92,274,33.6,64,180,35.6,47,61,77,15,60,75,92,62,44,9,57,295
+Marta Galic, Tulane (AAC),Senior,72,Guard,ncaaw.p.58037,Tulane,29,923,132,325,40.6,58,163,35.6,46,57,80.7,40,93,133,49,76,19,7,45,368
+MeiLani McBee, Hawaii (Big West),Junior,70,Guard,ncaaw.p.65268,Hawaii,29,823,76,206,36.9,58,160,36.3,26,29,89.7,19,88,107,21,32,24,19,59,236
+Dominique Ennis, Rice (AAC),Sophomore,69,Guard,ncaaw.p.71284,Rice,29,888,123,312,39.4,59,182,32.4,35,41,85.4,18,63,81,43,49,41,5,61,340
+Rachel Ullstrom, Richmond (Atlantic 10),Sophomore,73,Guard,ncaaw.p.71292,Richmond,33,799,141,264,53.4,68,157,43.3,41,50,82,35,116,151,17,35,32,12,48,391
+Madison Mathiowetz, South Dakota St. (Summit League),Sophomore,70,Guard,ncaaw.p.71395,S. Dakota St.,30,899,130,286,45.5,59,149,39.6,35,46,76.1,18,91,109,77,46,28,1,47,354
+Dolly Cairns, FGCU (ASUN),Senior,66,Guard,ncaaw.p.64290,Fla Gulf Coast,29,914,89,219,40.6,53,156,34,24,33,72.7,5,68,73,86,42,34,1,43,255
+Holly Kersgieter, Kansas (Big 12),Senior,70,Guard,ncaaw.p.61091,Kansas,30,984,121,278,43.5,61,147,41.5,49,70,70,22,127,149,46,53,40,5,53,352
+Freja Werth, San Francisco (WCC),Junior,73,Guard,ncaaw.p.67573,San Francisco,30,957,103,264,39,57,162,35.2,34,45,75.6,47,123,170,45,38,18,5,70,297
+Reese Ericson, Army West Point (Patriot),Sophomore,66,Guard,ncaaw.p.70971,Army,28,851,92,286,32.2,52,165,31.5,11,19,57.9,15,43,58,78,69,31,2,48,247
+Kristin Williams, Massachusetts (Atlantic 10),Junior,68,Guard,ncaaw.p.71598,Coastal Car.,32,933,131,374,35,60,195,30.8,49,58,84.5,6,47,53,69,93,32,3,59,371
+Annika Shah, Cal Poly (Big West),Junior,63,Guard,ncaaw.p.67603,Cal Poly,29,951,115,293,39.2,55,136,40.4,65,69,94.2,19,43,62,68,65,28,0,57,350
+Molly Sheehan, SIUE (OVC),Junior,68,Guard,ncaaw.p.66532,SIU Edwardsville,31,777,82,187,43.9,58,137,42.3,47,49,95.9,8,62,70,90,80,23,5,38,269
+Deaja Richardson, Coastal Carolina (Sun Belt),Senior,69,Guard,ncaaw.p.60780,Coastal Car.,29,847,139,374,37.2,54,198,27.3,88,115,76.5,23,60,83,56,80,46,0,71,420
+Kayla Padilla, Southern California (Pac-12),Senior,69,Guard,ncaaw.p.63022,USC,30,912,78,177,44.1,54,123,43.9,21,28,75,10,41,51,77,24,24,13,49,231
+Sara Bejedi, Florida St. (ACC),Senior,67,Guard,ncaaw.p.61057,Florida St.,33,1050,125,390,32.1,60,201,29.9,92,121,76,10,98,108,58,56,30,1,95,402
+Sydni Scott, Marshall (Sun Belt),Sophomore,68,Guard,ncaaw.p.70806,Fairfield,30,539,86,209,41.1,56,157,35.7,10,17,58.8,18,38,56,23,26,47,1,60,238
+Naudia Evans, Grand Canyon (WAC),Junior,66,Guard,ncaaw.p.66887,Loyola Marymount,30,1008,99,264,37.5,56,154,36.4,44,61,72.1,6,104,110,81,53,42,6,24,298
+Mataya Gayle, Penn (Ivy League),Freshman,67,Guard,ncaaw.p.112827,Pennsylvania,27,849,146,369,39.6,49,166,29.5,40,50,80,25,57,82,83,85,40,3,82,381
+Tess Barnes, Wyoming (Mountain West),Junior,74,Forward,ncaaw.p.67229,Wyoming,29,849,102,234,43.6,57,155,36.8,19,25,76,8,101,109,49,64,20,19,66,280
+Salma Bates, Louisiana Tech (CUSA),Senior,67,Guard,ncaaw.p.60727,Louisiana Tech,31,951,106,283,37.5,58,182,31.9,47,62,75.8,6,70,76,81,50,48,4,49,317
+Taliyah Clark, UT Arlington (WAC),Junior,71,Guard,ncaaw.p.67104,UT Arlington,30,833,126,299,42.1,58,156,37.2,71,95,74.7,22,98,120,50,56,22,13,55,381
+Kaety L'Amoreaux, Fairfield (MAAC),Freshman,66,Guard,ncaaw.p.112870,Fairfield,28,742,92,254,36.2,53,166,31.9,45,58,77.6,26,87,113,73,66,45,2,54,282
+Hannah Pratt, Tulane (AAC),Senior,73,Forward,ncaaw.p.57064,Tulane,30,815,108,279,38.7,58,168,34.5,26,34,76.5,32,108,140,34,46,19,19,51,300
+Sydney Ryan, Furman (SoCon),Sophomore,71,Guard,ncaaw.p.70977,Furman,31,774,102,238,42.9,56,145,38.6,67,79,84.8,65,111,176,29,48,29,3,68,327
+Coriah Beck, Ark.-Pine Bluff (SWAC),Junior,71,Guard,ncaaw.p.63965,Alabama A&M,30,848,127,342,37.1,54,163,33.1,76,116,65.5,39,84,123,71,90,35,9,94,384
+Jade Upshaw, Central Ark. (ASUN),Junior,67,Guard,ncaaw.p.66636,Central Arkansas,30,872,133,317,42,55,145,37.9,44,54,81.5,23,104,127,29,41,37,2,52,365
